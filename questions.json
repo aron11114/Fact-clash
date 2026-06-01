@@ -1,0 +1,1342 @@
+[
+    {
+        "category": "Geography",
+        "optionA": { "name": "Nile River", "value": 6650 },
+        "optionB": { "name": "Amazon River", "value": 6400 },
+        "en": { "question": "Which river is longer?", "metric": "kilometers in length", "displayA": "6,650 km", "displayB": "6,400 km", "funFact": "The Nile is traditionally considered the longest, though ongoing studies debate the Amazon's exact source." },
+        "es": { "question": "¿Qué río es más largo?", "metric": "kilómetros de longitud", "displayA": "6,650 km", "displayB": "6,400 km", "funFact": "El Nilo es considerado el más largo, aunque estudios recientes debaten el origen exacto del Amazonas." }
+    },
+    {
+        "category": "Geography",
+        "optionA": { "name": "Russia", "value": 17098242 },
+        "optionB": { "name": "Canada", "value": 9984670 },
+        "en": { "question": "Which country occupies a larger surface area?", "metric": "square kilometers", "displayA": "17.1 million km²", "displayB": "9.9 million km²", "funFact": "Russia is so massive that it spans across 11 different time zones." },
+        "es": { "question": "¿Qué país ocupa una mayor superficie territorial?", "metric": "kilómetros cuadrados", "displayA": "17.1 millones de km²", "displayB": "9.9 millones de km²", "funFact": "Rusia es tan enorme que se extiende a lo largo de 11 husos horarios diferentes." }
+    },
+    {
+        "category": "Geography",
+        "optionA": { "name": "Tokyo", "value": 37400000 },
+        "optionB": { "name": "New York City", "value": 19500000 },
+        "en": { "question": "Which metropolitan area has a larger population?", "metric": "residents", "displayA": "37.4 million", "displayB": "19.5 million", "funFact": "Greater Tokyo holds over a quarter of Japan's entire population." },
+        "es": { "question": "¿Qué área metropolitana alberga más población?", "metric": "residentes", "displayA": "37.4 millones", "displayB": "19.5 millones", "funFact": "El Gran Tokio concentra a más de un cuarto de toda la población de Japón." }
+    },
+    {
+        "category": "Geography",
+        "optionA": { "name": "Pacific Ocean", "value": 165250000 },
+        "optionB": { "name": "Atlantic Ocean", "value": 106460000 },
+        "en": { "question": "Which ocean holds the largest surface area?", "metric": "square kilometers", "displayA": "165.2 million km²", "displayB": "106.4 million km²", "funFact": "The Pacific Ocean covers more area than all of Earth's continents combined." },
+        "es": { "question": "¿Qué océano posee la mayor área de superficie?", "metric": "kilómetros cuadrados", "displayA": "165.2 millones de km²", "displayB": "106.4 millones de km²", "funFact": "El Océano Pacífico cubre un área mayor que todos los continentes del mundo combinados." }
+    },
+    {
+    "category": "Geography",
+    "optionA": { "name": "Arctic Ocean", "value": 14056000 },
+    "optionB": { "name": "Indian Ocean", "value": 70560000 },
+    "en": { "question": "Which ocean has a larger surface area?", "metric": "square kilometers", "displayA": "14.1 million km²", "displayB": "70.6 million km²", "funFact": "The Indian Ocean is the third-largest ocean on Earth, covering about 20% of the world's water surface." },
+    "es": { "question": "¿Qué océano tiene una mayor superficie?", "metric": "kilómetros cuadrados", "displayA": "14.1 millones de km²", "displayB": "70.6 millones de km²", "funFact": "El Océano Índico es el tercer océano más grande de la Tierra y cubre cerca del 20% de la superficie oceánica mundial." }
+},
+{
+    "category": "Geography",
+    "optionA": { "name": "Mount Kilimanjaro", "value": 5895 },
+    "optionB": { "name": "Mount Elbrus", "value": 5642 },
+    "en": { "question": "Which mountain peak is taller?", "metric": "meters above sea level", "displayA": "5,895 m", "displayB": "5,642 m", "funFact": "Kilimanjaro is Africa's highest mountain and one of the world's most famous free-standing peaks." },
+    "es": { "question": "¿Qué montaña tiene una mayor altitud?", "metric": "metros sobre el nivel del mar", "displayA": "5,895 m", "displayB": "5,642 m", "funFact": "El Kilimanjaro es la montaña más alta de África y una de las cumbres aisladas más famosas del planeta." }
+},
+{
+    "category": "Geography",
+    "optionA": { "name": "Australia", "value": 7692024 },
+    "optionB": { "name": "Greenland", "value": 2166086 },
+    "en": { "question": "Which territory covers a larger land area?", "metric": "square kilometers", "displayA": "7.69 million km²", "displayB": "2.17 million km²", "funFact": "Australia is both a country and the world's smallest continent." },
+    "es": { "question": "¿Qué territorio posee una superficie terrestre más extensa?", "metric": "kilómetros cuadrados", "displayA": "7.69 millones de km²", "displayB": "2.17 millones de km²", "funFact": "Australia es al mismo tiempo un país y el continente más pequeño del planeta." }
+},
+{
+    "category": "Geography",
+    "optionA": { "name": "Lake Victoria", "value": 68870 },
+    "optionB": { "name": "Lake Superior", "value": 82100 },
+    "en": { "question": "Which lake has a larger surface area?", "metric": "square kilometers", "displayA": "68,870 km²", "displayB": "82,100 km²", "funFact": "Lake Superior is the largest freshwater lake by surface area in the world." },
+    "es": { "question": "¿Qué lago tiene una mayor superficie?", "metric": "kilómetros cuadrados", "displayA": "68,870 km²", "displayB": "82,100 km²", "funFact": "El Lago Superior es el lago de agua dulce más grande del mundo por superficie." }
+},
+{
+    "category": "Geography",
+    "optionA": { "name": "Brazil", "value": 8515767 },
+    "optionB": { "name": "India", "value": 3287263 },
+    "en": { "question": "Which country occupies a larger land area?", "metric": "square kilometers", "displayA": "8.52 million km²", "displayB": "3.29 million km²", "funFact": "Brazil accounts for nearly half of South America's total land area." },
+    "es": { "question": "¿Qué país ocupa una superficie territorial más grande?", "metric": "kilómetros cuadrados", "displayA": "8.52 millones de km²", "displayB": "3.29 millones de km²", "funFact": "Brasil representa casi la mitad de toda la superficie de Sudamérica." }
+},
+{
+    "category": "Geography",
+    "optionA": { "name": "Yangtze River", "value": 6300 },
+    "optionB": { "name": "Mekong River", "value": 4350 },
+    "en": { "question": "Which river is longer?", "metric": "kilometers in length", "displayA": "6,300 km", "displayB": "4,350 km", "funFact": "The Yangtze River is the longest river in Asia and the third-longest in the world." },
+    "es": { "question": "¿Qué río es más largo?", "metric": "kilómetros de longitud", "displayA": "6,300 km", "displayB": "4,350 km", "funFact": "El Yangtsé es el río más largo de Asia y el tercero más largo del mundo." }
+},
+{
+    "category": "Geography",
+    "optionA": { "name": "Indonesia", "value": 281000000 },
+    "optionB": { "name": "Pakistan", "value": 241000000 },
+    "en": { "question": "Which country has a larger population?", "metric": "residents", "displayA": "281 million", "displayB": "241 million", "funFact": "Indonesia is the world's largest island nation and the fourth most populous country." },
+    "es": { "question": "¿Qué país tiene una población más grande?", "metric": "habitantes", "displayA": "281 millones", "displayB": "241 millones", "funFact": "Indonesia es la nación insular más grande del mundo y el cuarto país más poblado." }
+},
+{
+    "category": "Geography",
+    "optionA": { "name": "Gobi Desert", "value": 1295000 },
+    "optionB": { "name": "Kalahari Desert", "value": 900000 },
+    "en": { "question": "Which desert covers a larger area?", "metric": "square kilometers", "displayA": "1.30 million km²", "displayB": "900,000 km²", "funFact": "Unlike most deserts, the Gobi experiences snowfall during winter." },
+    "es": { "question": "¿Qué desierto cubre una mayor superficie?", "metric": "kilómetros cuadrados", "displayA": "1.30 millones de km²", "displayB": "900,000 km²", "funFact": "A diferencia de muchos desiertos, el Gobi recibe nevadas durante el invierno." }
+},
+{
+    "category": "Geography",
+    "optionA": { "name": "Tokyo", "value": 37400000 },
+    "optionB": { "name": "Delhi", "value": 33000000 },
+    "en": { "question": "Which metropolitan area has a larger population?", "metric": "residents", "displayA": "37.4 million", "displayB": "33 million", "funFact": "Tokyo has remained the world's largest metropolitan area for decades." },
+    "es": { "question": "¿Qué área metropolitana tiene una mayor población?", "metric": "residentes", "displayA": "37.4 millones", "displayB": "33 millones", "funFact": "Tokio se ha mantenido durante décadas como el área metropolitana más poblada del mundo." }
+},
+{
+    "category": "Geography",
+    "optionA": { "name": "Mediterranean Sea", "value": 2500000 },
+    "optionB": { "name": "Black Sea", "value": 436400 },
+    "en": { "question": "Which sea has a larger surface area?", "metric": "square kilometers", "displayA": "2.5 million km²", "displayB": "436,400 km²", "funFact": "The Mediterranean Sea connects three continents: Europe, Africa and Asia." },
+    "es": { "question": "¿Qué mar posee una mayor superficie?", "metric": "kilómetros cuadrados", "displayA": "2.5 millones de km²", "displayB": "436,400 km²", "funFact": "El Mar Mediterráneo conecta tres continentes: Europa, África y Asia." }
+},
+    {
+        "category": "Geography",
+        "optionA": { "name": "United States", "value": 19340 },
+        "optionB": { "name": "China", "value": 14500 },
+        "en": { "question": "Which country produces a higher Nominal Gross Domestic Product (GDP)?", "metric": "billion USD per year", "displayA": "$19,340 billion", "displayB": "$14,500 billion", "funFact": "The U.S. leads in Nominal GDP, but China ranks higher in Purchasing Power Parity (PPP)." },
+        "es": { "question": "¿Qué país produce un mayor Producto Interno Bruto (PIB) Nominal?", "metric": "miles de millones de USD", "displayA": "$19,340 mil millones", "displayB": "$14,500 mil millones", "funFact": "EE. UU. lidera en PIB Nominal, pero China suele liderar en Paridad de Poder Adquisitivo (PPA)." }
+    },
+    {
+        "category": "Geography",
+        "optionA": { "name": "Mount Everest", "value": 8848 },
+        "optionB": { "name": "K2", "value": 8611 },
+        "en": { "question": "Which mountain peak has a higher elevation?", "metric": "meters above sea level", "displayA": "8,848 m", "displayB": "8,611 m", "funFact": "K2 is slightly shorter than Everest but is statistically far more dangerous to climb." },
+        "es": { "question": "¿Qué pico montañoso tiene una mayor altitud?", "metric": "metros sobre el nivel del mar", "displayA": "8,848 m", "displayB": "8,611 m", "funFact": "El K2 es un poco más bajo que el Everest, pero estadísticamente es mucho más peligroso de escalar." }
+    },
+    {
+        "category": "Geography",
+        "optionA": { "name": "Sahara Desert", "value": 9200000 },
+        "optionB": { "name": "Gobi Desert", "value": 1295000 },
+        "en": { "question": "Which desert covers a larger geographic space?", "metric": "square kilometers", "displayA": "9.2 million km²", "displayB": "1.3 million km²", "funFact": "The Sahara is the largest hot desert, but Antarctica is the largest absolute desert on Earth." },
+        "es": { "question": "¿Qué desierto cubre un espacio geográfico más grande?", "metric": "kilómetros cuadrados", "displayA": "9.2 millones de km²", "displayB": "1.3 millones de km²", "funFact": "El Sahara es el desierto cálido más grande, pero la Antártida es el desierto absoluto más grande." }
+    },
+    {
+        "category": "Geography",
+        "optionA": { "name": "Greenland", "value": 2166086 },
+        "optionB": { "name": "New Guinea", "value": 785753 },
+        "en": { "question": "Which territory is the larger island?", "metric": "square kilometers", "displayA": "2.16 million km²", "displayB": "785,753 km²", "funFact": "Greenland is the largest island in the world that isn't considered its own continent." },
+        "es": { "question": "¿Qué territorio es la isla más grande?", "metric": "kilómetros cuadrados", "displayA": "2.16 millones de km²", "displayB": "785,753 km²", "funFact": "Groenlandia es la isla más grande del mundo que no es considerada un continente propio." }
+    },
+    {
+        "category": "Geography",
+        "optionA": { "name": "Angel Falls", "value": 979 },
+        "optionB": { "name": "Niagara Falls", "value": 51 },
+        "en": { "question": "Which waterfall has a higher total drop height?", "metric": "meters of total height", "displayA": "979 m", "displayB": "51 m", "funFact": "Angel Falls in Venezuela is the world's highest uninterrupted waterfall." },
+        "es": { "question": "¿Qué cascada tiene una altura de caída libre más alta?", "metric": "metros de altura total", "displayA": "979 m", "displayB": "51 m", "funFact": "El Salto Ángel en Venezuela es la cascada ininterrumpida más alta de la Tierra." }
+    },
+    {
+        "category": "Geography",
+        "optionA": { "name": "Caspian Sea", "value": 371000 },
+        "optionB": { "name": "Lake Superior", "value": 82100 },
+        "en": { "question": "Which lake has a larger surface area?", "metric": "square kilometers", "displayA": "371,000 km²", "displayB": "82,100 km²", "funFact": "The Caspian Sea is classified as the world's largest inland body of water." },
+        "es": { "question": "¿Qué lago tiene una mayor superficie?", "metric": "kilómetros cuadrados", "displayA": "371,000 km²", "displayB": "82,100 km²", "funFact": "El Mar Caspio está clasificado como el cuerpo de agua interior cerrado más grande del mundo." }
+    },
+    {
+        "category": "Geography",
+        "optionA": { "name": "Mariana Trench", "value": 10994 },
+        "optionB": { "name": "Puerto Rico Trench", "value": 8376 },
+        "en": { "question": "Which ocean trench reaches a deeper point?", "metric": "meters of maximum depth", "displayA": "10,994 m", "displayB": "8,376 m", "funFact": "If you dropped Mount Everest into the Mariana Trench, its peak would still be covered by 2 km of water." },
+        "es": { "question": "¿Qué fosa oceánica alcanza una mayor profundidad?", "metric": "metros de profundidad máxima", "displayA": "10,994 m", "displayB": "8,376 m", "funFact": "Si pusieras el Monte Everest dentro de la fosa de las Marianas, su cima quedaría sumergida bajo 2 km de agua." }
+    },
+    {
+        "category": "Geography",
+        "optionA": { "name": "Indonesia", "value": 17508 },
+        "optionB": { "name": "The Bahamas", "value": 700 },
+        "en": { "question": "Which country contains a higher number of islands?", "metric": "islands", "displayA": "17,508 islands", "displayB": "700 islands", "funFact": "Indonesia is the largest archipelagic nation, with about 6,000 islands actively inhabited." },
+        "es": { "question": "¿Qué país posee un mayor número de islas en su territorio?", "metric": "islas en su territorio", "displayA": "17,508 islas", "displayB": "700 islas", "funFact": "Indonesia es el estado archipelágico más grande; cerca de 6,000 de sus islas están habitadas." }
+    },
+    {
+        "category": "Geography",
+        "optionA": { "name": "Brazil", "value": 215000000 },
+        "optionB": { "name": "Germany", "value": 84000000 },
+        "en": { "question": "Which nation has a larger national population?", "metric": "habitants", "displayA": "215 million", "displayB": "84 million", "funFact": "Brazil is the most populous country in South America, making up nearly half of the continent." },
+        "es": { "question": "¿Qué nación registra una mayor población nacional?", "metric": "habitantes", "displayA": "215 millones", "displayB": "84 millones", "funFact": "Brasil es el país más poblado de Sudamérica, albergando casi la mitad de la población del continente." }
+    },
+    {
+        "category": "Geography",
+        "optionA": { "name": "Lake Baikal", "value": 1642 },
+        "optionB": { "name": "Lake Tanganyika", "value": 1470 },
+        "en": { "question": "Which lake drops down to a deeper point?", "metric": "meters of maximum depth", "displayA": "1,642 m", "displayB": "1,470 m", "funFact": "Lake Baikal in Russia contains roughly 20% of the world's unfrozen surface fresh water." },
+        "es": { "question": "¿Qué lago desciende a una mayor profundidad?", "metric": "metros de profundidad", "displayA": "1,642 m", "displayB": "1,470 m", "funFact": "El Lago Baikal en Rusia contiene cerca del 20% del agua dulce líquida superficial del planeta." }
+    },
+    {
+        "category": "Geography",
+        "optionA": { "name": "Chile", "value": 4270 },
+        "optionB": { "name": "Italy", "value": 1200 },
+        "en": { "question": "Which country is physically longer from north to south?", "metric": "kilometers", "displayA": "4,270 km", "displayB": "1,200 km", "funFact": "Chile has an average width of only 177 km despite its massive north-to-south length." },
+        "es": { "question": "¿Qué país es físicamente más largo extendido de norte a sur?", "metric": "kilómetros de longitud", "displayA": "4,270 km", "displayB": "1,200 km", "funFact": "Chile tiene un ancho promedio de solo 177 km a pesar de su impresionante longitud norte-sur." }
+    },
+    {
+        "category": "Geography",
+        "optionA": { "name": "Caribbean Sea", "value": 2754000 },
+        "optionB": { "name": "Mediterranean Sea", "value": 2500000 },
+        "en": { "question": "Which sea encompasses a larger geographic surface area?", "metric": "square kilometers", "displayA": "2.75 million km²", "displayB": "2.50 million km²", "funFact": "The Caribbean Sea slightly beats out the Mediterranean and features the ultra-deep Cayman Trench." },
+        "es": { "question": "¿Qué mar abarca una superficie geográfica más extensa?", "metric": "kilómetros cuadrados", "displayA": "2.75 millones de km²", "displayB": "2.50 millones de km²", "funFact": "El Mar Caribe supera por poco al Mediterráneo y alberga la profundísima Fosa de Caimán." }
+    },
+    {
+        "category": "Geography",
+        "optionA": { "name": "Australia", "value": 7692024 },
+        "optionB": { "name": "India", "value": 3287263 },
+        "en": { "question": "Which country spans a larger total land area?", "metric": "square kilometers", "displayA": "7.69 million km²", "displayB": "3.28 million km²", "funFact": "Australia is the world's smallest continent but its sixth-largest sovereign nation." },
+        "es": { "question": "¿Qué país abarca una superficie territorial total más grande?", "metric": "kilómetros cuadrados", "displayA": "7.69 millones de km²", "displayB": "3.28 millones de km²", "funFact": "Australia es el continente más pequeño del planeta, pero el sexto país soberano más extenso." }
+    },
+    {
+        "category": "Geography",
+        "optionA": { "name": "Suez Canal", "value": 193 },
+        "optionB": { "name": "Panama Canal", "value": 82 },
+        "en": { "question": "Which artificial maritime shipping canal is longer?", "metric": "kilometers", "displayA": "193 km", "displayB": "82 km", "funFact": "The Suez Canal allows ships to sail directly between Europe and Asia without navigating around Africa." },
+        "es": { "question": "¿Qué canal de navegación marítima artificial es más largo?", "metric": "kilómetros de longitud", "displayA": "193 km", "displayB": "82 km", "funFact": "El Canal de Suez permite a los barcos navegar entre Europa y Asia sin rodear toda África." }
+    },
+    {
+        "category": "Geography",
+        "optionA": { "name": "Monaco", "value": 202 },
+        "optionB": { "name": "Vatican City", "value": 49 },
+        "en": { "question": "Which sovereign microstate has a larger land area?", "metric": "hectares of land", "displayA": "202 hectares", "displayB": "49 hectares", "funFact": "Vatican City is the absolute smallest independent nation on Earth, enclosed entirely within Rome." },
+        "es": { "question": "¿Qué microestado soberano cuenta con una mayor extensión de tierra?", "metric": "hectáreas de superficie", "displayA": "202 hectáreas", "displayB": "49 hectáreas", "funFact": "El Vaticano es el país independiente más pequeño del mundo, rodeado por la ciudad de Roma." }
+    },
+    {
+        "category": "Geography",
+        "optionA": { "name": "Amazon Rainforest", "value": 5500000 },
+        "optionB": { "name": "Congo Rainforest", "value": 1780000 },
+        "en": { "question": "Which tropical rainforest covers a broader surface ecosystem?", "metric": "square kilometers", "displayA": "5.5 million km²", "displayB": "1.7 million km²", "funFact": "The Amazon represents over half of the planet's remaining rainforests." },
+        "es": { "question": "¿Qué selva tropical abarca un ecosistema de superficie más amplio?", "metric": "kilómetros cuadrados", "displayA": "5.5 millones de km²", "displayB": "1.7 millones de km²", "funFact": "La selva amazónica representa más de la mitad de las selvas tropicales que le quedan al planeta." }
+    },
+    {
+        "category": "Geography",
+        "optionA": { "name": "Canada Coastline", "value": 202080 },
+        "optionB": { "name": "USA Coastline", "value": 19924 },
+        "en": { "question": "Which country has a longer total coastline?", "metric": "kilometers", "displayA": "202,080 km", "displayB": "19,924 km", "funFact": "Canada has the longest coastline of any country in the world, bordered by three oceans." },
+        "es": { "question": "¿Qué país tiene una línea de costa total más larga?", "metric": "kilómetros de costa", "displayA": "202,080 km", "displayB": "19,924 km", "funFact": "Canadá tiene la línea de costa más larga de cualquier país del mundo, rodeada por tres océanos." }
+    },
+    {
+        "category": "Geography",
+        "optionA": { "name": "Africa", "value": 54 },
+        "optionB": { "name": "Europe", "value": 44 },
+        "en": { "question": "Which continent has more sovereign countries?", "metric": "countries", "displayA": "54 nations", "displayB": "44 nations", "funFact": "Africa contains the most countries of any single continent on Earth." },
+        "es": { "question": "¿Qué continente tiene más países soberanos reconocidos?", "metric": "países", "displayA": "54 naciones", "displayB": "44 naciones", "funFact": "África contiene la mayor cantidad de países de cualquier continente en la Tierra." }
+    },
+    {
+        "category": "Geography",
+        "optionA": { "name": "La Paz (Bolivia)", "value": 3640 },
+        "optionB": { "name": "Quito (Ecuador)", "value": 2850 },
+        "en": { "question": "Which capital city sits at a higher altitude?", "metric": "meters above sea level", "displayA": "3,640 m", "displayB": "2,850 m", "funFact": "La Paz is widely recognized as the highest administrative capital city in the world." },
+        "es": { "question": "¿Qué ciudad capital se encuentra a una mayor altitud?", "metric": "metros sobre el nivel del mar", "displayA": "3,640 m", "displayB": "2,850 m", "funFact": "La Paz es ampliamente reconocida como la capital administrativa más alta del mundo." }
+    },
+    {
+        "category": "Geography",
+        "optionA": { "name": "Iceland Volcanoes", "value": 130 },
+        "optionB": { "name": "Japan Volcanoes", "value": 111 },
+        "en": { "question": "Which island nation has more active or volcanic systems?", "metric": "volcanic systems", "displayA": "130 systems", "displayB": "111 systems", "funFact": "Iceland sits directly on the Mid-Atlantic Ridge, making it an extreme volcanic hotspot." },
+        "es": { "question": "¿Qué nación insular cuenta con más sistemas volcánicos?", "metric": "sistemas volcánicos", "displayA": "130 sistemas", "displayB": "111 systems", "funFact": "Islandia se encuentra directamente sobre la dorsal mesoatlántica, lo que la convierte en un punto caliente volcánico." }
+    },
+    {
+        "category": "Geography",
+        "optionA": { "name": "Lake Titicaca", "value": 3812 },
+        "optionB": { "name": "Lake Victoria", "value": 1134 },
+        "en": { "question": "Which lake is located at a higher elevation?", "metric": "meters above sea level", "displayA": "3,812 m", "displayB": "1,134 m", "funFact": "Lake Titicaca in the Andes is the highest navigable body of water for commercial vessels." },
+        "es": { "question": "¿Qué lago está situado a una mayor elevación?", "metric": "metros sobre el nivel del mar", "displayA": "3,812 m", "displayB": "1,134 m", "funFact": "El Lago Titicaca en los Andes es el cuerpo de agua navegable comercialmente más alto del mundo." }
+    },
+    {
+        "category": "Geography",
+        "optionA": { "name": "Mongolia", "value": 1564116 },
+        "optionB": { "name": "Kazakhstan", "value": 2724900 },
+        "en": { "question": "Which country is the larger landlocked nation?", "metric": "square kilometers", "valueA": 1564116, "valueB": 2724900, "displayA": "1.56 million km²", "displayB": "2.72 million km²", "funFact": "Kazakhstan is the single largest landlocked country in the entire world." },
+        "es": { "question": "¿Qué país es la nación sin salida al mar más grande?", "metric": "kilómetros cuadrados", "displayA": "1.56 millones de km²", "displayB": "2.72 millones de km²", "funFact": "Kazajistán es el país sin salida al mar más grande de todo el mundo." }
+    },
+    {
+        "category": "Geography",
+        "optionA": { "name": "Death Valley (USA)", "value": 56 },
+        "optionB": { "name": "Lut Desert (Iran)", "value": 70 },
+        "en": { "question": "Which location has recorded a higher land surface temperature?", "metric": "degrees Celsius", "valueA": 56, "valueB": 70, "displayA": "56.7°C", "displayB": "70.7°C", "funFact": "While Death Valley holds the higher air temperature record, satellite data showed Iran's Lut Desert hit an insane 70.7°C on the actual ground." },
+        "es": { "question": "¿Qué ubicación ha registrado una temperatura de superficie terrestre más alta?", "metric": "grados Celsius", "displayA": "56.7°C", "displayB": "70.7°C", "funFact": "Aunque el Valle de la Muerte tiene el récord de temperatura del aire, satélites midieron 70.7°C en el suelo del desierto de Lut." }
+    },
+    {
+        "category": "Geography",
+        "optionA": { "name": "Madagascar", "value": 587041 },
+        "optionB": { "name": "Sumatra", "value": 473481 },
+        "en": { "question": "Which island spans a larger geographic area?", "metric": "square kilometers", "displayA": "587,041 km²", "displayB": "473,481 km²", "funFact": "Madagascar is the fourth largest island in the world and has ecosystems found nowhere else." },
+        "es": { "question": "¿Qué isla abarca un área geográfica más grande?", "metric": "kilómetros cuadrados", "displayA": "587,041 km²", "displayB": "473,481 km²", "funFact": "Madagascar es la cuarta isla más grande del mundo y posee un ecosistema único aislado por millones de años." }
+    },
+    {
+        "category": "Geography",
+        "optionA": { "name": "Mont Blanc", "value": 4807 },
+        "optionB": { "name": "Mount Kilimanjaro", "value": 5895 },
+        "en": { "question": "Which mountain peak has a higher peak altitude?", "metric": "meters", "valueA": 4807, "valueB": 5895, "displayA": "4,807 m", "displayB": "5,895 m", "funFact": "Kilimanjaro is the highest peak in Africa and the tallest free-standing mountain in the world." },
+        "es": { "question": "¿Qué pico montañoso tiene una mayor altitud en su cumbre?", "metric": "metros", "displayA": "4,807 m", "displayB": "5,895 m", "funFact": "El Kilimanjaro es la cumbre más alta de África y la montaña autoportante (libre) más alta del mundo." }
+    },
+    {
+        "category": "Geography",
+        "optionA": { "name": "Bangladesh Density", "value": 1265 },
+        "optionB": { "name": "India Density", "value": 435 },
+        "en": { "question": "Which country has a higher population density?", "metric": "people per square kilometer", "displayA": "1,265/km²", "displayB": "435/km²", "funFact": "Bangladesh is one of the most densely populated large countries due to its small land size and huge population." },
+        "es": { "question": "¿Qué país tiene una mayor densidad de población?", "metric": "personas por kilómetro cuadrado", "displayA": "1,265/km²", "displayB": "435/km²", "funFact": "Bangladés es uno de los países grandes más densamente poblados del mundo debido a su territorio compacto." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "Minecraft", "value": 300000000 },
+        "optionB": { "name": "Grand Theft Auto V", "value": 200000000 },
+        "en": { "question": "Which video game has sold more copies worldwide?", "metric": "total copies sold", "displayA": "300 million", "displayB": "200 million", "funFact": "Minecraft reigns as the best-selling video game in human history." },
+        "es": { "question": "¿Qué videojuego ha vendido más copias a nivel mundial?", "metric": "copias vendidas totales", "displayA": "300 millones", "displayB": "200 millones", "funFact": "Minecraft reina como el videojuego más vendido de toda la historia humana." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "PlayStation 2", "value": 155000000 },
+        "optionB": { "name": "Nintendo Switch", "value": 141000000 },
+        "en": { "question": "Which game console has achieved higher lifetime hardware sales?", "metric": "units sold", "displayA": "155 million", "displayB": "141 million", "funFact": "The PS2 remains the best-selling home console ever released." },
+        "es": { "question": "¿Qué consola de videojuegos ha logrado mayores ventas de hardware históricas?", "metric": "unidades vendidas", "displayA": "155 millones", "displayB": "141 millones", "funFact": "La PS2 sigue siendo la consola de sobremesa más vendida de la historia de la industria." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "League of Legends", "value": 115000000 },
+        "optionB": { "name": "Dota 2", "value": 11000000 },
+        "en": { "question": "Which PC game maintains a higher monthly active player count?", "metric": "active monthly users", "displayA": "115 million", "displayB": "11 million", "funFact": "LoL commands an immense worldwide audience in modern competitive esports." },
+        "es": { "question": "¿Qué juego de PC mantiene un mayor conteo de usuarios activos mensuales?", "metric": "usuarios activos al mes", "displayA": "115 millones", "displayB": "11 millones", "funFact": "LoL domina el panorama global, siendo uno de los mayores pilares de los esports modernos." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "World of Warcraft", "value": 244 },
+        "optionB": { "name": "Elden Ring", "value": 45 },
+        "en": { "question": "Which game took more budget and maintenance over time?", "metric": "estimated million USD spent", "displayA": "$244 million", "displayB": "$45 million", "funFact": "MMORPGs like WoW require massive continuous funding to support decades of updates and servers." },
+        "es": { "question": "¿Qué juego requirió un mayor presupuesto de desarrollo y mantenimiento operacional?", "metric": "millones de USD estimados", "displayA": "$244 millones", "displayB": "$45 millones", "funFact": "Los MMORPG como WoW requieren financiamiento masivo para mantener décadas de servidores y expansiones." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "Pokémon", "value": 100000000000 },
+        "optionB": { "name": "Star Wars", "value": 68000000000 },
+        "en": { "question": "Which media franchise has generated a higher total lifetime revenue?", "metric": "estimated USD generated", "displayA": "$100 billion", "displayB": "$68 billion", "funFact": "Pokémon is the highest-grossing media franchise of all time, largely driven by licensed merchandise." },
+        "es": { "question": "¿Qué franquicia de medios ha generado mayores ingresos totales históricos?", "metric": "ingresos en USD estimados", "displayA": "$100 mil millones", "displayB": "$68 mil millones", "funFact": "Pokémon es la franquicia de entretenimiento más lucrativa de la historia, liderada por su merchandising." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "Tetris", "value": 520000000 },
+        "optionB": { "name": "Wii Sports", "value": 82900000 },
+        "en": { "question": "Which iconic game has higher total sales across all platforms (including mobile downloads)?", "metric": "copies sold", "displayA": "520 million", "displayB": "82.9 million", "funFact": "Tetris achieved astronomical numbers thanks to paid mobile downloads and multi-platform availability over 40 years." },
+        "es": { "question": "¿Qué juego icónico tiene mayores ventas totales en plataformas (incluyendo móviles)?", "metric": "copias vendidas", "displayA": "520 millones", "displayB": "82.9 millones", "funFact": "Tetris alcanzó números astronómicos gracias a descargas móviles pagadas y su presencia durante 40 años." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "Steam Users Peak", "value": 38000000 },
+        "optionB": { "name": "Xbox Live Peak", "value": 15000000 },
+        "en": { "question": "Which network achieved a higher concurrent active user record in a single day?",
+            "metric": "concurrent online users", "displayA": "38 million", "displayB": "15 million", "funFact": "Steam hit a colossal peak of concurrent users recently, driven heavily by seasonal sales and major viral PC releases." },
+        "es": { "question": "¿Qué red logró un mayor récord de usuarios activos simultáneos en un solo día?",
+            "metric": "usuarios en línea simultáneos", "displayA": "38 millones", "displayB": "15 millones", "funFact": "Steam rompió récords históricos de conectividad simultánea impulsado por rebajas y lanzamientos masivos en PC." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "Cyberpunk 2077 Budget", "value": 316 },
+        "optionB": { "name": "GTA V Budget", "value": 265 },
+        "en": { "question": "Which game cost more to fully produce and market at initial launch?", "metric": "million USD", "displayA": "$316 million", "displayB": "$265 million", "funFact": "Cyberpunk 2077 became one of the most expensive games ever made due to long development resets and massive marketing campaigns." },
+        "es": { "question": "¿Qué juego costó más producir y promocionar comercialmente en su lanzamiento?", "metric": "millones de dólares", "displayA": "$316 millones", "displayB": "$265 millones", "funFact": "Cyberpunk 2077 se convirtió en uno de los proyectos más caros por reinicios internos y publicidad global masiva." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "PUBG Mobile Downloads", "value": 1000000000 },
+        "optionB": { "name": "Candy Crush Downloads", "value": 500000000 },
+        "en": { "question": "Which game crossed a higher absolute milestone for total mobile downloads?", "metric": "downloads", "displayA": "1 billion", "displayB": "500 million", "funFact": "PUBG Mobile is a cultural phenomenon in Asian markets, racking up over a billion installs globally." },
+        "es": { "question": "¿Qué juego cruzó un hito absoluto de descargas totales en dispositivos móviles?", "metric": "descargas", "displayA": "1 mil millones", "displayB": "500 millones", "funFact": "PUBG Mobile es un fenómeno cultural gigantesco en los mercados asiáticos, acumulando cifras absurdas de instalación." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "Pac-Man Arcade Revenue", "value": 14000000000 },
+        "optionB": { "name": "Space Invaders Revenue", "value": 13000000000 },
+        "en": { "question": "Which classic arcade game generated more revenue from quarters and cabinets?", "metric": "adjusted lifetime USD revenue", "displayA": "$14 billion", "displayB": "$13 billion", "funFact": "Pac-Man generated billions of dollars in quarters during the 1980s arcade boom, beating out Space Invaders by a hair." },
+        "es": { "question": "¿Qué clásico arcade generó más ingresos totales ajustados contando monedas físicas?", "metric": "ingresos históricos ajustados en USD", "displayA": "$14 mil millones", "displayB": "$13 mil millones", "funFact": "Pac-Man devoró miles de millones de dólares en monedas de 25 centavos durante el auge de los salones arcade de los 80." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "Roblox Active Users", "value": 79000000 },
+        "optionB": { "name": "Fortnite Active Users", "value": 25000000 },
+        "en": { "question": "Which platform maintains a higher daily active player base?", "metric": "daily active users", "displayA": "79 million", "displayB": "25 million", "funFact": "Roblox has quietly grown into a massive digital ecosystem where millions of kids play user-created games every single day." },
+        "es": { "question": "¿Qué plataforma mantiene una base de jugadores activos diarios más alta?", "metric": "usuarios activos diarios", "displayA": "79 millones", "displayB": "25 millones", "funFact": "Roblox se ha convertido en un ecosistema masivo donde millones de jóvenes entran a mundos virtuales creados por la comunidad." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "Final Fantasy VII Remake", "value": 7000000 },
+        "optionB": { "name": "Final Fantasy XVI", "value": 3000000 },
+        "en": { "question": "Which recent Final Fantasy entry recorded higher launch-window sales?", "metric": "units sold", "displayA": "7 million", "displayB": "3 million", "funFact": "FF7 Remake benefited from intense multi-generational nostalgia and a massive initial PS4 install base." },
+        "es": { "question": "¿Qué entrega reciente de Final Fantasy registró mayores ventas en su ventana de lanzamiento?", "metric": "unidades vendidas", "displayA": "7 millones", "displayB": "3 millones", "funFact": "FF7 Remake se benefició de una intensa nostalgia generacional y una enorme base de consolas PS4 instaladas." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "The Witcher 3 Sales", "value": 50000000 },
+        "optionB": { "name": "Skyrim Sales", "value": 60000000 },
+        "en": { "question": "Which open-world RPG has sold more total lifetime copies across all editions?", "metric": "copies sold", "valueA": 50000000, "valueB": 60000000, "displayA": "50 million", "displayB": "60 million", "funFact": "Skyrim has been re-released on almost every device imaginable over a decade, keeping its sales numbers ahead." },
+        "es": { "question": "¿Qué RPG de mundo abierto ha vendido más copias históricas sumando todas sus ediciones?", "metric": "copias vendidas", "displayA": "50 millones", "displayB": "60 millones", "funFact": "Skyrim ha sido relanzado en casi cualquier dispositivo almacenable sobre la tierra, manteniendo su ventaja comercial." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "Nintendo DS", "value": 154020000 },
+        "optionB": { "name": "Game Boy", "value": 118690000 },
+        "en": { "question": "Which legendary Nintendo handheld console sold more lifetime units?", "metric": "units sold worldwide", "displayA": "154 million", "displayB": "118 million", "funFact": "The dual-screen Nintendo DS is the best-selling handheld device of all time, coming incredibly close to the PS2's record." },
+        "es": { "question": "¿Qué legendaria consola portátil de Nintendo vendió más unidades históricas?", "metric": "unidades vendidas en el mundo", "displayA": "154 millones", "displayB": "118 millones", "funFact": "La Nintendo DS de doble pantalla es la portátil más vendida de todos los tiempos, pisándole los talones al récord de la PS2." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "Elden Ring Sales", "value": 25000000 },
+        "optionB": { "name": "Dark Souls 3 Sales", "value": 10000000 },
+        "en": { "question": "Which FromSoftware title achieved higher sales milestones?", "metric": "units sold", "displayA": "25 million", "displayB": "10 million", "funFact": "Elden Ring broke out of the niche 'Soulslike' genre into a mainstream global hit, winning Game of the Year in 2022." },
+        "es": { "question": "¿Qué título desarrollado por FromSoftware logró mayores hitos de venta?", "metric": "unidades vendidas", "displayA": "25 millones", "displayB": "10 millones", "funFact": "Elden Ring rompió la barrera del nicho 'Soulslike' para volverse un éxito masivo, ganando el GOTY en 2022." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "League of Legends Champions", "value": 168 },
+        "optionB": { "name": "Dota 2 Heroes", "value": 124 },
+        "en": { "question": "Which popular MOBA features a higher number of playable characters in its roster?", "metric": "playable characters", "displayA": "168 characters", "displayB": "124 characters", "funFact": "League of Legends adds multiple champions every year, expanding its competitive meta continuously since 2009." },
+        "es": { "question": "¿Qué popular MOBA cuenta con una mayor cantidad de personajes jugables en su plantilla?", "metric": "personajes jugables", "displayA": "168 personajes", "displayB": "124 personajes", "funFact": "League of Legends añade campeones año con año, expandiendo un meta competitivo activo desde 2009." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "Call of Duty: Modern Warfare 3 (2011)", "value": 400000000 },
+        "optionB": { "name": "Halo 3 (2007)", "value": 170000000 },
+        "en": { "question": "Which legendary shooter generated more revenue in its first 24 hours of launch?", "metric": "million USD in day 1 revenue", "displayA": "$400 million", "displayB": "$170 million", "funFact": "MW3 shattered entertainment records in 2011, making more on Day 1 than any Hollywood movie box office opening at the time." },
+        "es": { "question": "¿Qué legendario juego de disparos recaudó más dinero en sus primeras 24 horas en el mercado?", "metric": "millones de USD en el día 1", "displayA": "$400 millones", "displayB": "$170 millones", "funFact": "MW3 pulverizó récords de la industria del entretenimiento en 2011, superando los estrenos de taquilla de cualquier película de Hollywood." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "The Sims 4 Players", "value": 70000000 },
+        "optionB": { "name": "Animal Crossing: New Horizons", "value": 45000000 },
+        "en": { "question": "Which life simulation franchise entry recorded a higher life-to-date player/sales metric?", "metric": "total players or units", "displayA": "70 million players", "displayB": "45 million units", "funFact": "The Sims 4 reached 70 million players after transitioning into a highly accessible free-to-play model." },
+        "es": { "question": "¿Qué entrega de simulación de vida registró una mayor métrica de jugadores/ventas totales?", "metric": "unidades o jugadores totales", "displayA": "70 millones de jugadores", "displayB": "45 millones de unidades", "funFact": "Los Sims 4 alcanzó los 70 millones de jugadores históricos tras migrar a un modelo gratuito (free-to-play) altamente accesible." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "Sony PlayStation 4", "value": 117000000 },
+        "optionB": { "name": "Sony PlayStation 5", "value": 60000000 },
+        "en": { "question": "Which console has higher total worldwide hardware units sold to date?", "metric": "units sold", "displayA": "117 million", "displayB": "60 million", "funFact": "The PS4 had an incredibly long life cycle and is currently ahead, while the PS5 is actively climbing the charts." },
+        "es": { "question": "¿Qué consola registra una mayor cantidad de unidades de hardware vendidas en el mundo?", "metric": "unidades vendidas", "displayA": "117 millones", "displayB": "60 millones", "funFact": "La PS4 gozó de un ciclo de vida largo y dominante en su generación, manteniendo una ventaja histórica clara." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "Hearthstone Cards", "value": 5000 },
+        "optionB": { "name": "Yu-Gi-Oh Master Duel", "value": 11000 },
+        "en": { "question": "Which digital card game gives players access to a larger pool of unique card choices?", "metric": "unique available cards", "valueA": 5000, "valueB": 11000, "displayA": "5,000 cards", "displayB": "11,000+ cards", "funFact": "Yu-Gi-Oh draws from over two decades of real-world card releases, offering an enormous card library for deckbuilding." },
+        "es": { "question": "¿Qué juego digital de cartas ofrece acceso a un catálogo más grande de cartas individuales?", "metric": "cartas únicas disponibles", "displayA": "5,000 cartas", "displayB": "11,000+ cartas", "funFact": "Yu-Gi-Oh hereda más de dos décadas de historia de cartas impresas reales, ofreciendo un archivo masivo de personalización." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "Red Dead Redemption 2", "value": 64000000 },
+        "optionB": { "name": "The Witcher 3", "value": 50000000 },
+        "en": { "question": "Which cinematic open-world game has sold more total units worldwide?", "metric": "copies sold", "displayA": "64 million", "displayB": "50 million", "funFact": "RDR2 is officially one of the top best-selling video games of all time due to Rockstar's long-term sales momentum." },
+        "es": { "question": "¿Qué obra de mundo abierto cinematográfico ha vendido más copias totales?", "metric": "copias vendidas", "displayA": "64 millones", "displayB": "50 millones", "funFact": "RDR2 es oficialmente uno de los juegos más vendidos de la historia gracias al incombustible ritmo comercial de Rockstar." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "Super Mario Bros. (1985)", "value": 40240000 },
+        "optionB": { "name": "Sonic the Hedgehog (1991)", "value": 15000000 },
+        "en": { "question": "Which platformer sold more copies on its original debut console system?", "metric": "copies sold on debut platform", "displayA": "40.2 million", "displayB": "15 million", "funFact": "Super Mario Bros. on the NES was bundled with the console for years, locking down an unbeatable historical metric." },
+        "es": { "question": "¿Qué juego de plataformas vendió más copias en su consola de debut original?", "metric": "copias vendidas en plataforma original", "displayA": "40.2 millones", "displayB": "15 millones", "funFact": "Super Mario Bros. en la NES venía incluido de regalo con la consola durante años, cimentando una cifra imbatible." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "Resident Evil 5", "value": 14600000 },
+        "optionB": { "name": "Resident Evil 4 (2005)", "value": 13000000 },
+        "en": { "question": "Which action-horror title from Capcom reached higher raw sales before their respective modern remakes?", "metric": "original release units sold", "displayA": "14.6 million", "displayB": "13 million", "funFact": "Despite RE4 being a critically acclaimed masterpiece, the co-op focus of Resident Evil 5 made it Capcom's best seller for years." },
+        "es": { "question": "¿Qué título de acción y terror de Capcom alcanzó mayores ventas brutas en sus versiones originales?", "metric": "unidades vendidas versión original", "displayA": "14.6 millones", "displayB": "13 millones", "funFact": "A pesar de que RE4 es una obra maestra de culto, el enfoque cooperativo de RE5 lo convirtió en el juego más vendido de Capcom por años." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "Monopoly Go! First Year", "value": 2000000000 },
+        "optionB": { "name": "Genshin Impact First Year", "value": 2000000000 },
+        "en": { "question": "Which mobile app generated 2 billion USD in consumer spending faster?", "metric": "months to hit 2B USD", "valueA": 10, "valueB": 12, "displayA": "10 months", "displayB": "12 months", "funFact": "Monopoly Go! shattered mobile records by hitting $2 billion in revenue in just 10 months through aggressive social mechanics." },
+        "es": { "question": "¿Qué aplicación móvil generó 2 mil millones de dólares en gasto de usuarios más rápido?", "metric": "meses requeridos (menor valor gana)", "displayA": "10 meses", "displayB": "12 meses", "funFact": "¡Monopoly Go! rompió récords móviles al recaudar 2,000 millones de dólares en solo 10 meses mediante mecánicas sociales agresivas." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "Among Us Peak Players", "value": 500000000 },
+        "optionB": { "name": "Fall Guys Peak Players", "value": 50000000 },
+        "en": { "question": "Which indie viral sensation achieved a higher active monthly player count during the 2020 pandemic?", "metric": "monthly players", "displayA": "500 million", "displayB": "50 million", "funFact": "Among Us became an unprecedented global phenomenon, played by half a billion people in late 2020 due to its accessibility on mobile." },
+        "es": { "question": "¿Qué sensación viral independiente logró una mayor cantidad de usuarios activos al mes durante la pandemia de 2020?", "metric": "jugadores mensuales activos", "displayA": "500 millones", "displayB": "50 millones", "funFact": "Among Us fue un fenómeno sin precedentes en 2020, acumulando 500 millones de jugadores gracias a su descarga gratuita en móviles." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "World of Warcraft Levels", "value": 80 },
+        "optionB": { "name": "Final Fantasy XIV Levels", "value": 100 },
+        "en": { "question": "Which MMORPG currently has a higher level cap for a single character as of 2024-2026 expansions?", "metric": "maximum character level", "valueA": 80, "valueB": 100, "displayA": "Level 80 (The War Within)", "displayB": "Level 100 (Dawntrail)", "funFact": "WoW famously squished its levels down from 120 back to 60, while FFXIV has steadily increased its cap up to 100 in Dawntrail." },
+        "es": { "question": "¿Qué MMORPG tiene un nivel máximo de personaje más alto considerando expansiones recientes?", "metric": "nivel máximo permitido", "displayA": "Nivel 80 (The War Within)", "displayB": "Nivel 100 (Dawntrail)", "funFact": "WoW comprimió sus niveles de 120 a 60 en Shadowlands, mientras que FFXIV ha aumentado escalonadamente su límite hasta 100 en Dawntrail." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "Gran Turismo Series", "value": 90000000 },
+        "optionB": { "name": "Need for Speed Series", "value": 150000000 },
+        "en": { "question": "Which racing franchise has sold more total copies over its lifetime across all titles?", "metric": "total copies sold", "valueA": 90000000, "valueB": 150000000, "displayA": "90 million", "displayB": "150 million", "funFact": "While Gran Turismo dominates PlayStation racing history, Need for Speed's huge multi-platform library gives it a higher total volume." },
+        "es": { "question": "¿Qué franquicia de conducción y carreras ha vendido más copias totales a lo largo de su historia?", "metric": "copias vendidas totales", "displayA": "90 millones", "displayB": "150 millones", "funFact": "Aunque Gran Turismo domina en PlayStation, la enorme biblioteca multiplataforma de Need for Speed le da una ventaja masiva en volumen." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "Dota 2 The International 2021 Prize", "value": 40000000 },
+        "optionB": { "name": "League of Legends Worlds 2021 Prize", "value": 2225000 },
+        "en": { "question": "Which esports event handed out a larger single prize pool tournament payout?", "metric": "USD in prize money", "displayA": "$40 million", "displayB": "$2.2 million", "funFact": "Dota 2 used crowdfunding from in-game Battle Passes to fund astronomical prize pools, a record for professional gaming." },
+        "es": { "question": "¿Qué evento de esports entregó una mayor bolsa de premios acumulada en un solo torneo?", "metric": "dólares en premios", "displayA": "$40 millones USD", "displayB": "$2.2 millones USD", "funFact": "Dota 2 utilizó microfinanciación masiva de pases de batalla (Battle Pass) para financiar premios astronómicos en su torneo anual." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "Super Smash Bros. Ultimate", "value": 89 },
+        "optionB": { "name": "Street Fighter 6 Roster", "value": 22 },
+        "en": { "question": "Which fighting game has a larger playable fighter roster?", "metric": "playable fighters", "displayA": "89 fighters", "displayB": "22 fighters", "funFact": "Smash Ultimate brought together characters from dozens of franchises, earning the tagline 'Everyone is Here!'." },
+        "es": { "question": "¿Qué juego de lucha cuenta con una plantilla más grande de personajes seleccionables?", "metric": "luchadores disponibles", "displayA": "89 luchadores", "displayB": "22 luchadores", "funFact": "Smash Ultimate reunió personajes de docenas de franquicias de videojuegos distintas bajo el lema '¡Todos están aquí!'." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "Borderlands 3 Guns", "value": 1000000000 },
+        "optionB": { "name": "Destiny 2 Exotics", "value": 400 },
+        "en": { "question": "Which looter shooter advertises a higher number of weapon variations?", "metric": "procedural weapon choices", "displayA": "1 billion+ weapons", "displayB": "400+ exotic weapons", "funFact": "Borderlands utilizes a massive procedural algorithm to generate random gun stats, barrels, scopes, and elemental effects." },
+        "es": { "question": "¿Qué looter-shooter promociona una mayor cantidad de variaciones de armas en su juego?", "metric": "variaciones de armas", "displayA": "1 mil millones+", "displayB": "400+ armas exóticas", "funFact": "Borderlands utiliza un algoritmo procedimental masivo para generar estadísticas aleatorias, cañones y miras en sus armas." }
+    },
+    {
+        "category": "Gaming",
+        "optionA": { "name": "Metal Gear Solid V", "value": 80 },
+        "optionB": { "name": "Red Dead Redemption 2 Space", "value": 150 },
+        "en": { "question": "Which game requires more file storage installation space on a hard drive?", "metric": "gigabytes (GB) needed", "valueA": 80, "valueB": 150, "displayA": "80 GB", "displayB": "150 GB", "funFact": "RDR2 contains an astonishing volume of high-resolution textures, audio dialogue files, and environmental layouts." },
+        "es": { "question": "¿Qué juego requiere un mayor espacio de almacenamiento de instalación en disco duro?", "metric": "gigabytes (GB) requeridos", "displayA": "80 GB", "displayB": "150 GB", "funFact": "RDR2 pesa más de 150 GB debido a texturas de alta resolución, archivos de voz masivos y un gigantesco mapa abierto simulado." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "Apple", "value": 3300000000000 },
+        "optionB": { "name": "Meta (Facebook)", "value": 1200000000000 },
+        "en": { "question": "Which tech titan holds a higher market capitalization peak?", "metric": "estimated USD in market cap", "displayA": "$3.3 trillion", "displayB": "$1.2 trillion", "funFact": "Apple became the first publicly traded U.S. company to cross multiple trillion-dollar valuation milestones." },
+        "es": { "question": "¿Qué titán tecnológico posee un pico de capitalización de mercado más alto?", "metric": "capitalización de mercado en USD", "displayA": "$3.3 billones", "displayB": "$1.2 billones", "funFact": "Apple fue la primera empresa estadounidense en la bolsa en cruzar valoraciones multimillonarias gracias al iPhone." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "Facebook", "value": 3050000000 },
+        "optionB": { "name": "TikTok", "value": 1200000000 },
+        "en": { "question": "Which social media application records more monthly active users?", "metric": "global active users", "displayA": "3.05 billion", "displayB": "1.2 billion", "funFact": "Despite TikTok's massive viral growth among Gen Z, Facebook retains the crown as the world's largest network." },
+        "es": { "question": "¿Qué red social registra un mayor número de usuarios activos mensuales?", "metric": "usuarios activos globales", "displayA": "3.05 mil millones", "displayB": "1.2 mil millones", "funFact": "A pesar del crecimiento de TikTok en jóvenes, Facebook retiene la corona como la red social más poblada." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "Bitcoin Peak Price", "value": 73000 },
+        "optionB": { "name": "Ethereum Peak Price", "value": 4890 },
+        "en": { "question": "Which cryptocurrency hit a higher individual token all-time high valuation?", "metric": "USD per single coin", "displayA": "$73,000", "displayB": "$4,890", "funFact": "Bitcoin was created in 2009 by the anonymous programmer Satoshi Nakamoto." },
+        "es": { "question": "¿Qué criptomoneda alcanzó un precio histórico más alto por unidad?", "metric": "dólares por moneda token", "displayA": "$73,000 USD", "displayB": "$4,890 USD", "funFact": "Bitcoin fue creado en 2009 de forma anónima bajo el seudónimo de Satoshi Nakamoto." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "Google Search Share", "value": 91 },
+        "optionB": { "name": "Bing Search Share", "value": 4 },
+        "en": { "question": "Which search engine dominates a higher percentage of global market share?", "metric": "percent of total market share", "displayA": "91%", "displayB": "4%", "funFact": "Google handles over 8.5 billion searches per day across the globe." },
+        "es": { "question": "¿Qué buscador domina un mayor porcentaje de la cuota de mercado global?", "metric": "porcentaje de mercado total", "displayA": "91%", "displayB": "4%", "funFact": "Google procesa más de 8.5 mil millones de consultas diarias, siendo el portal dominante." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "Threads Launch (5 days)", "value": 100000000 },
+        "optionB": { "name": "ChatGPT Launch (2 months)", "value": 100000000 },
+        "en": { "question": "Which digital app reached 100 million registered users faster?", "metric": "days taken to reach milestone (lower is faster)", "valueA": 5, "valueB": 60, "displayA": "5 days", "displayB": "60 days", "funFact": "Meta's Threads broke speed records by integrating seamlessly with existing Instagram profiles at launch." },
+        "es": { "question": "¿Qué aplicación digital alcanzó más rápido los 100 millones de usuarios registrados?", "metric": "días requeridos (menor valor gana)", "displayA": "5 días", "displayB": "60 días", "funFact": "Threads de Meta rompió récords históricos de velocidad al permitir a los usuarios importar sus perfiles de Instagram." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "NVIDIA Market Cap", "value": 3000000000000 },
+        "optionB": { "name": "Intel Market Cap", "value": 150000000000 },
+        "en": { "question": "Which hardware manufacturing company achieved a higher peak market valuation?", "metric": "estimated USD market cap", "displayA": "$3.0+ trillion", "displayB": "$150 billion", "funFact": "NVIDIA experienced an unprecedented market surge due to its complete dominance in AI processing microchips." },
+        "es": { "question": "¿Qué empresa de hardware tecnológico logró una mayor valoración bursátil en su pico?", "metric": "capitalización bursátil en USD", "displayA": "$3.0+ billones", "displayB": "$150 mil millones", "funFact": "NVIDIA experimentó un auge bursátil absurdo gracias al monopolio de microchips de procesamiento de Inteligencia Artificial." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "iPhone Lifetime Sales", "value": 2300000000 },
+        "optionB": { "name": "Samsung Galaxy S Series", "value": 450000000 },
+        "en": { "question": "Which smartphone lineup has sold more cumulative total units worldwide?", "metric": "units sold", "displayA": "2.3 billion", "displayB": "450 million", "funFact": "The iPhone is widely considered the most profitable and widely scaled single consumer electronics product line in history." },
+        "es": { "question": "¿Qué línea de teléfonos inteligentes ha vendido más unidades acumuladas globales?", "metric": "unidades vendidas totales", "displayA": "2.3 mil millones", "displayB": "450 millones", "funFact": "El iPhone es el producto electrónico de consumo masivo más rentable y vendido de toda la historia moderna." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "YouTube Premium Users", "value": 100000000 },
+        "optionB": { "name": "Netflix Paid Subscribers", "value": 270000000 },
+        "en": { "question": "Which premium subscription service has a larger base of paid members?", "metric": "paid subscribers", "valueA": 100000000, "valueB": 270000000, "displayA": "100 million", "displayB": "270 million", "funFact": "While YouTube has billions of free users, Netflix dominates paid subscription volume globally." },
+        "es": { "question": "¿Qué servicio por suscripción de video cuenta con una mayor base de miembros de pago?", "metric": "suscriptores de pago", "displayA": "100 millones", "displayB": "270 millones", "funFact": "Aunque YouTube tiene miles de millones de usuarios gratis, Netflix lidera el volumen de suscripción premium directa." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "Blu-ray Capacity", "value": 50 },
+        "optionB": { "name": "Standard DVD Capacity", "value": 4 },
+        "en": { "question": "Which storage medium holds more data on a standard dual-layer disc?", "metric": "gigabytes (GB) of storage", "displayA": "50 GB", "displayB": "4.7 GB", "funFact": "Blu-ray uses a blue-violet laser with a shorter wavelength, allowing data to be packed much more densely." },
+        "es": { "question": "¿Qué medio físico almacena más datos en un disco estándar de doble capa?", "metric": "gigabytes (GB) de datos", "displayA": "50 GB", "displayB": "4.7 GB", "funFact": "El Blu-ray utiliza un láser azul-violeta con una longitud de onda más corta, compactando más información en el mismo espacio." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "SpaceX Starlink Satellites", "value": 6000 },
+        "optionB": { "name": "GPS Network Satellites", "value": 31 },
+        "en": { "question": "Which global satellite constellation has more active units orbiting Earth?", "metric": "operational satellites", "displayA": "6,000+ satellites", "displayB": "31 satellites", "funFact": "Starlink owns over half of all active satellites orbiting the Earth, providing mega-constellation low-Earth orbit internet." },
+        "es": { "question": "¿Qué constelación satelital global tiene más unidades activas orbitando la Tierra?", "metric": "satélites operacionales", "displayA": "6,000+ satélites", "displayB": "31 satélites", "funFact": "Starlink es dueño de más de la mitad de todos los satélites activos, proveyendo internet comercial de baja órbita." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "Supercomputer Frontier Speed", "value": 1194 },
+        "optionB": { "name": "Supercomputer Fugaku Speed", "value": 442 },
+        "en": { "question": "Which supercomputer clocks a higher processing speed performance benchmark?", "metric": "PetaFLOPS of computing speed", "displayA": "1,194 PetaFLOPS", "displayB": "442 PetaFLOPS", "funFact": "Frontier (USA) was the first supercomputer to officially break the exascale barrier, doing over a quintillion calculations per second." },
+        "es": { "question": "¿Qué supercomputadora registra una mayor velocidad de rendimiento en procesamiento de datos?", "metric": "PetaFLOPS de potencia", "displayA": "1,194 PetaFLOPS", "displayB": "442 PetaFLOPS", "funFact": "Frontier (EE. UU.) fue la primera supercomputadora en romper de forma oficial la barrera del exaescala, procesando cálculos absurdos." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "Amazon AWS Cloud Market", "value": 31 },
+        "optionB": { "name": "Google Cloud Market", "value": 11 },
+        "en": { "question": "Which cloud computing provider commands a larger share of the global infrastructure market?", "metric": "percent of global market share", "displayA": "31%", "displayB": "11%", "funFact": "Amazon Web Services (AWS) pioneered modern cloud computing infrastructure, remaining the internet's back-end backbone." },
+        "es": { "question": "¿Qué proveedor de infraestructura en la nube domina una mayor cuota del mercado tecnológico global?", "metric": "porcentaje de mercado en la nube", "displayA": "31%", "displayB": "11%", "funFact": "Amazon Web Services (AWS) fue el pionero de la infraestructura en la nube, manteniéndose como la columna vertebral de internet." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "WhatsApp Users", "value": 2000000000 },
+        "optionB": { "name": "Telegram Users", "value": 900000000 },
+        "en": { "question": "Which mobile instant messaging application has more active users global?", "metric": "global active users", "displayA": "2.0 billion", "displayB": "900 million", "funFact": "WhatsApp rules global communication, though Telegram has become immensely popular for its massive groups and file sharing features." },
+        "es": { "question": "¿Qué aplicación de mensajería instantánea móvil posee una mayor cantidad de usuarios activos?", "metric": "usuarios activos globales", "displayA": "2.0 mil millones", "displayB": "900 millones", "funFact": "WhatsApp lidera la mensajería móvil global, aunque Telegram ha crecido masivamente por sus canales masivos y privacidad." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "Play Store App Pool", "value": 2400000 },
+        "optionB": { "name": "Apple App Store Pool", "value": 1800000 },
+        "en": { "question": "Which digital storefront hosts a higher volume of available mobile apps?", "metric": "total apps available", "displayA": "2.4 million", "displayB": "1.8 million", "funFact": "Google Play Store holds more applications due to more open submission guidelines compared to Apple's strict curation." },
+        "es": { "question": "¿Qué tienda digital ofrece un mayor volumen de aplicaciones móviles disponibles para descarga?", "metric": "aplicaciones en catálogo", "displayA": "2.4 millones", "displayB": "1.8 millones", "funFact": "La Play Store aloja más aplicaciones debido a políticas de publicación más flexibles en comparación al estricto filtro de Apple." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "Linux Kernel Lines of Code", "value": 36000000 },
+        "optionB": { "name": "Windows 11 Lines of Code", "value": 50000000 },
+        "en": { "question": "Which operating system structure contains a higher volume of estimated lines of code?", "metric": "lines of source code", "valueA": 36000000, "valueB": 50000000, "displayA": "36 million lines", "displayB": "50+ million lines", "funFact": "Windows incorporates extensive legacy code subsystems to ensure enterprise software compatibility across decades." },
+        "es": { "question": "¿Qué sistema operativo contiene un mayor volumen estimado de líneas de código fuente en su núcleo?", "metric": "líneas de código fuente", "displayA": "36 millones", "displayB": "50+ millones", "funFact": "Windows incorpora código heredado (legacy) masivo para garantizar compatibilidad con programas de hace décadas en entornos de oficina." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "Wikipedia Articles (EN)", "value": 6800000 },
+        "optionB": { "name": "Encyclopædia Britannica Articles", "value": 120000 },
+        "en": { "question": "Which encyclopedia project holds a larger collection of informational text articles?", "metric": "written articles", "displayA": "6.8 million articles", "displayB": "120,000 articles", "funFact": "Wikipedia is the largest collaborative project in human history, written and maintained by a global network of volunteers." },
+        "es": { "question": "¿Qué proyecto enciclopédico aloja un catálogo de artículos escritos más extenso?", "metric": "artículos redactados", "displayA": "6.8 millones", "displayB": "120,000", "funFact": "Wikipedia es el proyecto colaborativo de conocimiento más grande de la humanidad, redactado por voluntarios del mundo." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "First Hard Drive Storage (1956)", "value": 4 },
+        "optionB": { "name": "First Floppy Disk Storage (1971)", "value": 0 },
+        "en": { "question": "Which historical IBM storage element held more data upon its introduction?", "metric": "megabytes (MB) of capacity", "valueA": 4.4, "valueB": 0.08, "displayA": "4.4 MB (IBM 350)", "displayB": "0.08 MB (IBM Minidisk)", "funFact": "The first commercial hard drive, the IBM 350, was the size of two large refrigerators and weighed over a ton." },
+        "es": { "question": "¿Qué elemento de almacenamiento histórico de IBM almacenaba más datos en su debut?", "metric": "megabytes (MB) de capacidad", "displayA": "4.4 MB (IBM 350)", "displayB": "0.08 MB (IBM Minidisk)", "funFact": "El primer disco duro comercial (IBM 350) tenía el tamaño de dos refrigeradores grandes y pesaba más de una tonelada." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "Bitcoin Total Supply LImit", "value": 21000000 },
+        "optionB": { "name": "Litecoin Total Supply Limit", "value": 84000000 },
+        "en": { "question": "Which cryptocurrency design enforces a higher maximum hard cap supply limit?", "metric": "maximum total token supply", "valueA": 21000000, "valueB": 84000000, "displayA": "21 million BTC", "displayB": "84 million LTC", "funFact": "Bitcoin's absolute scarcity limit of 21 million is coded into its core protocol to mathematically guarantee deflation." },
+        "es": { "question": "¿Qué diseño de criptomoneda tiene un límite de suministro absoluto máximo más alto?", "metric": "límite de suministro final de tokens", "displayA": "21 millones BTC", "displayB": "84 millones LTC", "funFact": "La escasez absoluta de Bitcoin (21 millones) está incrustada en su protocolo para garantizar deflación matemática." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "USB 3.0 Speed", "value": 5 },
+        "optionB": { "name": "Thunderbolt 4 Speed", "value": 40 },
+        "en": { "question": "Which hardware data interface standard supports higher maximum data transfer speeds?", "metric": "Gigabits per second (Gbps)", "valueA": 5, "valueB": 40, "displayA": "5 Gbps", "displayB": "40 Gbps", "funFact": "Thunderbolt 4 utilizes PCI Express architecture to move massive data loads, supporting high-resolution external monitors." },
+        "es": { "question": "¿Qué estándar de interfaz de datos de hardware soporta una velocidad de transferencia máxima más alta?", "metric": "Gigabits por segundo (Gbps)", "displayA": "5 Gbps", "displayB": "40 Gbps", "funFact": "Thunderbolt 4 utiliza carriles PCIe directos para mover cargas de datos masivas y pantallas externas de alta resolución." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "Tesla Model S Screen", "value": 17 },
+        "optionB": { "name": "Apple iPad Pro Screen", "value": 13 },
+        "en": { "question": "Which built-in electronic display screen has a larger diagonal measurement?", "metric": "inches of display size", "displayA": "17 inches", "displayB": "13 inches", "funFact": "Tesla popularized the integration of massive central tablet-style screens to control entire automotive operations." },
+        "es": { "question": "¿Qué pantalla electrónica integrada tiene una medida diagonal de tamaño más grande?", "metric": "pulgadas de tamaño de pantalla", "displayA": "17 pulgadas", "displayB": "13 pulgadas", "funFact": "Tesla popularizó la integración de enormes pantallas centrales estilo tableta para controlar las funciones de los vehículos." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "ASML Twinscan Price", "value": 350000000 },
+        "optionB": { "name": "F-35 Fighter Jet Price", "value": 100000000 },
+        "en": { "question": "Which complex high-tech machine costs more to purchase per individual unit?", "metric": "estimated USD per unit", "displayA": "$350 million (EUV System)", "displayB": "$100 million (F-35 Jet)", "funFact": "ASML's Extreme Ultraviolet (EUV) lithography machines are the only tools capable of printing the world's most advanced microchips." },
+        "es": { "question": "¿Qué máquina tecnológica compleja cuesta más por unidad individual fabricada?", "metric": "costo estimado por unidad en USD", "displayA": "$350 millones (Sistema EUV)", "displayB": "$100 millones (Caza F-35)", "funFact": "Las máquinas de litografía ultravioleta extrema (EUV) de ASML son las únicas en el mundo capaces de imprimir chips de vanguardia." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "Global Internet Users", "value": 5400000000 },
+        "optionB": { "name": "Global Smartphone Users", "value": 4900000000 },
+        "en": { "question": "Which digital baseline stat tracks a higher number of global people?", "metric": "active consumers globally", "displayA": "5.4 billion connected", "displayB": "4.9 billion devices", "funFact": "Over 65% of the human population is now online, accessing data via computers, smart homes, and workspaces." },
+        "es": { "question": "¿Qué estadística base digital registra a una mayor cantidad de personas en el planeta?", "metric": "usuarios activos globales", "displayA": "5.4 mil millones conectados", "displayB": "4.9 mil millones con smartphone", "funFact": "Más del 65% de la población humana global está en línea, accediendo a través de computadoras y dispositivos móviles." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "Bluetooth 5.0 Range", "value": 240 },
+        "optionB": { "name": "Standard Wi-Fi 2.4GHz Indoor Range", "value": 46 },
+        "en": { "question": "Which wireless tech specification lists a longer maximum line-of-sight outdoor range under ideal settings?", "metric": "meters of maximum range", "displayA": "240 meters", "displayB": "46 meters", "funFact": "Bluetooth 5.0 introduced low-energy long-range modes designed to transmit data across open fields for IoT equipment." },
+        "es": { "question": "¿Qué especificación de tecnología inalámbrica promete un alcance de transmisión máximo en exteriores más largo?", "metric": "metros de alcance máximo", "displayA": "240 metros", "displayB": "46 metros", "funFact": "El Bluetooth 5.0 introdujo modos de largo alcance con bajo consumo pensados para transmitir datos en espacios abiertos de telemetría." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "Fiber Optic Speed Record", "value": 301000000 },
+        "optionB": { "name": "Commercial 5G Peak Speed", "value": 10000 },
+        "en": { "question": "Which data transmission method reached a higher lab-tested experimental bandwidth record?", "metric": "Megabits per second (Mbps)", "displayA": "301,000,000 Mbps", "displayB": "10,000 Mbps", "funFact": "Scientists used customized multi-band fiber lines to transmit data near the speed of light, blowing wireless records out of the water." },
+        "es": { "question": "¿Qué método de transmisión de datos logró un récord experimental de ancho de banda en laboratorio más alto?", "metric": "Megabits por segundo (Mbps)", "displayA": "301,000,000 Mbps", "displayB": "10,000 Mbps", "funFact": "Científicos utilizaron cables de fibra óptica personalizados multi-banda para transmitir datos a la velocidad de la luz en laboratorio." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "Space Shuttle Code", "value": 400000 },
+        "optionB": { "name": "Android OS Source Code", "value": 12000000 },
+        "en": { "question": "Which software build requires a higher sheer quantity of lines of programming code?", "metric": "lines of software code", "valueA": 400000, "valueB": 12000000, "displayA": "400,000 lines", "displayB": "12+ million lines", "funFact": "The Space Shuttle software was incredibly compact and optimized, focused entirely on extreme mission safety protocols." },
+        "es": { "question": "¿Qué desarrollo de software requiere un volumen total de líneas de programación más alto?", "metric": "líneas de código de software", "displayA": "400,000 líneas", "displayB": "12+ millones de líneas", "funFact": "El software del transbordador espacial era increíblemente compacto y ultra-optimizado, priorizando la seguridad matemática crítica." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "Zoom Daily Meetings", "value": 300000000 },
+        "optionB": { "name": "Skype Peak Daily Users", "value": 40000000 },
+        "en": { "question": "Which video communications program recorded a higher active usage peak metric?", "metric": "daily meeting participants", "displayA": "300 million participants", "displayB": "40 million users", "funFact": "Zoom exploded during remote work transitions, completely surpassing legacy enterprise video tools." },
+        "es": { "question": "¿Qué plataforma de comunicación por video registró un mayor pico de métrica de uso diario?", "metric": "participantes en reuniones diarios", "displayA": "300 millones", "displayB": "40 millones", "funFact": "Zoom explotó corporativamente durante las transiciones globales de trabajo remoto, opacando las herramientas tradicionales." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "Dial-up Internet Speed (56k)", "value": 56 },
+        "optionB": { "name": "Standard ISDN Line Speed", "value": 128 },
+        "en": { "question": "Which classic internet technology standard delivered a higher data bandwidth transfer ceiling?", "metric": "Kilobits per second (Kbps)", "valueA": 56, "valueB": 128, "displayA": "56 Kbps", "displayB": "128 Kbps", "funFact": "ISDN lines were an early high-end digital alternative to standard telephone line dial-up access noises." },
+        "es": { "question": "¿Qué estándar de conexión a internet clásico ofrecía un límite de ancho de banda más alto?", "metric": "Kilobits por segundo (Kbps)", "displayA": "56 Kbps", "displayB": "128 Kbps", "funFact": "Las líneas RDSI (ISDN) fueron una alternativa digital premium temprana a los ruidos de conexión de los módems telefónicos analógicos." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "Sony Walkman Sales", "value": 400000000 },
+        "optionB": { "name": "Apple iPod Sales", "value": 450000000 },
+        "en": { "question": "Which portable audio listening device family recorded higher lifetime hardware sales milestones?", "metric": "total units sold", "valueA": 400000000, "valueB": 450000000, "displayA": "400 million", "displayB": "450 million", "funFact": "The iPod transformed Apple from a computer manufacturer into an ecosystem titan, narrowly beating the legendary cassette Walkman's record." },
+        "es": { "question": "¿Qué familia de reproductores de música portátiles registró ventas de hardware más altas?", "metric": "unidades vendidas totales", "displayA": "400 millones", "displayB": "450 millones", "funFact": "El iPod transformó a Apple de fabricante de computadoras a gigante de la música, batiendo por poco el récord del Walkman de casete." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "QR Code Max Capacity", "value": 7089 },
+        "optionB": { "name": "Standard Barcode Characters", "value": 20 },
+        "en": { "question": "Which optical data scanning matrix can encode a higher count of alphanumeric text characters?", "metric": "maximum numeric characters", "displayA": "7,089 numbers", "displayB": "20-80 numbers", "funFact": "QR codes are two-dimensional grids, storing data both vertically and horizontally to dramatically increase information densities." },
+        "es": { "question": "¿Qué matriz de escaneo óptico puede codificar una mayor cantidad de caracteres numéricos?", "metric": "caracteres numéricos máximos", "displayA": "7,089 números", "displayB": "20-80 números", "funFact": "Los códigos QR son bidimensionales, almacenando datos tanto vertical como horizontalmente para aumentar drásticamente su densidad." }
+    },
+    {
+        "category": "Technology",
+        "optionA": { "name": "Blu-ray Laser Wavelength", "value": 405 },
+        "optionB": { "name": "CD Laser Wavelength", "value": 780 },
+        "en": { "question": "Which disc format laser uses a shorter, more tightly focused optical light wavelength?", "metric": "nanometers (nm) - lower means tighter focus", "valueA": 405, "valueB": 780, "displayA": "405 nm (Blue Laser)", "displayB": "780 nm (Infrared Laser)", "funFact": "The short 405 nm laser allows the disc drive to track much smaller pits, vastly increasing disk data densities." },
+        "es": { "question": "¿Qué formato de disco óptico utiliza un láser con una longitud de onda de luz más corta y precisa?", "metric": "nanómetros (nm) - menor es más compacto", "displayA": "405 nm (Láser Azul)", "displayB": "780 nm (Láser Infrarrojo)", "funFact": "La corta longitud de onda (405 nm) permite leer hendiduras microscópicas, multiplicando la capacidad del disco." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "Avatar (2009)", "value": 2923000000 },
+        "optionB": { "name": "Avengers: Endgame", "value": 2799000000 },
+        "en": { "question": "Which cinematic release has grossed more at the worldwide box office?", "metric": "USD in box office revenue", "displayA": "$2.92 billion", "displayB": "$2.79 billion", "funFact": "James Cameron's Avatar reclaimed its number one all-time position after a highly successful theatrical re-release in China." },
+        "es": { "question": "¿Qué película recaudó más dinero en la taquilla global?", "metric": "recaudación en USD", "displayA": "$2.92 mil millones", "displayB": "$2.79 mil millones", "funFact": "Avatar de James Cameron recuperó el puesto número uno de la historia tras un exitoso reestreno en cines en China." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "Thriller (Michael Jackson)", "value": 70000000 },
+        "optionB": { "name": "Back in Black (AC/DC)", "value": 50000000 },
+        "en": { "question": "Which music album has achieved higher certified global sales?", "metric": "estimated copies sold", "displayA": "70 million", "displayB": "50 million", "funFact": "Released in 1982, Thriller won a record-breaking 8 Grammy Awards in a single night." },
+        "es": { "question": "¿Qué álbum musical ha logrado mayores ventas globales certificadas?", "metric": "copias vendidas estimadas", "displayA": "70 millones", "displayB": "50 millones", "funFact": "Lanzado en 1982, Thriller ganó un récord de 8 premios Grammy en una sola noche y revolucionó los videos musicales." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "The Simpsons", "value": 750 },
+        "optionB": { "name": "South Park", "value": 320 },
+        "en": { "question": "Which animated television show has broadcasted more total episodes?", "metric": "broadcasted episodes", "displayA": "750+ episodes", "displayB": "320+ episodes", "funFact": "The Simpsons is the longest-running American animated series and sitcom in history." },
+        "es": { "question": "¿Qué serie de televisión animada ha emitido más episodios totales?", "metric": "episodios emitidos", "displayA": "750+ episodios", "displayB": "320+ episodios", "funFact": "Los Simpson es la serie animada estadounidense de mayor duración y la comedia de situación más larga de la televisión." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "Walt Disney", "value": 26 },
+        "optionB": { "name": "Katharine Hepburn", "value": 4 },
+        "en": { "question": "Who has won a higher total number of competitive Academy Awards (Oscars)?", "metric": "Oscar statuettes won", "displayA": "26 Academy Awards", "displayB": "4 Academy Awards", "funFact": "Walt Disney holds both the record for most Academy Awards won and most nominations received (59) in history." },
+        "es": { "question": "¿Quién ha ganado un mayor número total de Premios de la Academia (Óscars)?", "metric": "estatuillas de Óscar ganadas", "displayA": "26 Óscars", "displayB": "4 Óscars", "funFact": "Walt Disney ostenta tanto el récord de más Premios de la Academia ganados como el de más nominaciones recibidas (59)." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "Star Wars: The Force Awakens", "value": 936000000 },
+        "optionB": { "name": "Avengers: Endgame Domestic", "value": 858000000 },
+        "en": { "question": "Which film earned more money specifically at the North American domestic box office?", "metric": "domestic USD box office", "displayA": "$936 million", "displayB": "$858 million", "funFact": "The Force Awakens holds the absolute domestic US box office record, driven by extreme multi-generational anticipation." },
+        "es": { "question": "¿Qué película recaudó más dinero específicamente en la taquilla doméstica de Norteamérica (EE. UU. y Canadá)?", "metric": "taquilla doméstica en USD", "displayA": "$936 millones", "displayB": "$858 millones", "funFact": "The Force Awakens posee el récord histórico norteamericano gracias al masivo regreso nostálgico de la saga." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "The Lion King (1994)", "value": 968000000 },
+        "optionB": { "name": "Frozen (2013)", "value": 1280000000 },
+        "en": { "question": "Which Disney animated feature brought in a higher original unadjusted global box office haul?", "metric": "global unadjusted USD", "valueA": 968000000, "valueB": 1280000000, "displayA": "$968 million", "displayB": "$1.28 billion", "funFact": "Frozen became an unprecedented global phenomenon, powered by the explosive popularity of its hit song 'Let It Go'." },
+        "es": { "question": "¿Qué película animada de Disney obtuvo una mayor recaudación de taquilla global original sin ajustar por inflación?", "metric": "recaudación global en USD", "displayA": "$968 millones", "displayB": "$1.28 mil millones", "funFact": "Frozen se convirtió en un fenómeno de masas global instantáneo, impulsado por el éxito arrollador de su tema musical 'Let It Go'." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "MrBeast Subscribers", "value": 300000000 },
+        "optionB": { "name": "T-Series Subscribers", "value": 266000000 },
+        "en": { "question": "Which YouTube channel has achieved the higher lifetime subscriber milestone?", "metric": "subscribers", "displayA": "300+ million", "displayB": "266 million", "funFact": "Jimmy Donaldson (MrBeast) became the most subscribed individual creator and channel after surpassing India's largest music label." },
+        "es": { "question": "¿Qué canal de YouTube ha logrado el hito de suscriptores históricos más alto?", "metric": "suscriptores en YouTube", "displayA": "300+ millones", "displayB": "266 millones", "funFact": "Jimmy Donaldson (MrBeast) se coronó como el creador individual con más suscriptores del mundo, superando al gigante musical indio T-Series." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "Game of Thrones Emmys", "value": 59 },
+        "optionB": { "name": "Breaking Bad Emmys", "value": 16 },
+        "en": { "question": "Which television drama series secured more competitive Primetime Emmy Awards?", "metric": "Emmy Awards won", "displayA": "59 Emmys", "displayB": "16 Emmys", "funFact": "Game of Thrones holds the record for the most Emmy awards won by a fictional drama series in television history." },
+        "es": { "question": "¿Qué serie dramática de televisión aseguró una mayor cantidad de premios Primetime Emmy?", "metric": "premios Emmy ganados", "displayA": "59 Emmys", "displayB": "16 Emmys", "funFact": "Game of Thrones posee el récord de más premios Emmy ganados por una serie dramática de ficción en la historia de la televisión." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "Titanic (1997) Production", "value": 200000000 },
+        "optionB": { "name": "Waterworld (1995)", "value": 175000000 },
+        "en": { "question": "Which 1990s blockbuster cost more to build and shoot?", "metric": "million USD production budget", "displayA": "$200 million", "displayB": "$175 million", "funFact": "Titanic was the most expensive movie ever made at the time; its custom-built water tank sets cost millions alone." },
+        "es": { "question": "¿Qué superproducción de los años 90 costó más dinero producir y filmar?", "metric": "millones de USD de presupuesto", "displayA": "$200 millones", "displayB": "$175 millones", "funFact": "Titanic fue la película más cara de la historia en su momento; requirió la construcción de tanques de agua masivos." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "The Weeknd Monthly Listeners", "value": 115000000 },
+        "optionB": { "name": "Taylor Swift Monthly Listeners", "value": 100000000 },
+        "en": { "question": "Which artist has recorded a higher peak monthly active listener metric on Spotify?", "metric": "monthly active listeners", "displayA": "115 million", "displayB": "100 million", "funFact": "The Weeknd became the first artist in Spotify history to cross multiple massive monthly listener milestones." },
+        "es": { "question": "¿Qué artista musical ha registrado un pico más alto de oyentes mensuales activos en Spotify?", "metric": "oyentes mensuales activos", "displayA": "115 millones", "displayB": "100 millones", "funFact": "The Weeknd fue el primer artista en la historia de la plataforma en cruzar hitos de reproducciones mensuales simultáneas." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "Lord of the Rings: Return of the King", "value": 11 },
+        "optionB": { "name": "La La Land Oscars", "value": 6 },
+        "en": { "question": "Which film won more Academy Awards at a single Oscar ceremony?", "metric": "Oscars won in one night", "displayA": "11 Oscars", "displayB": "6 Oscars", "funFact": "Return of the King won every single award it was nominated for, tying Ben-Hur and Titanic for the all-time record." },
+        "es": { "question": "¿Qué película ganó una mayor cantidad de Premios de la Academia en una sola gala de los Óscars?", "metric": "Óscars ganados en una noche", "displayA": "11 Óscars", "displayB": "6 Óscars", "funFact": "El Retorno del Rey ganó en absolutamente todas las categorías que estuvo nominada, empatando el récord histórico de Ben-Hur y Titanic." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "Shrek 2 Box Office", "value": 928000000 },
+        "optionB": { "name": "Toy Story 3 Box Office", "value": 1067000000 },
+        "en": { "question": "Which animated feature generated higher raw worldwide theatrical box office grosses?", "metric": "worldwide box office USD", "valueA": 928000000, "valueB": 1067000000, "displayA": "$928 million", "displayB": "$1,067 million", "funFact": "Toy Story 3 became Pixar's first movie to crack the billion-dollar milestone, driven by deep emotional attachment from aging audiences." },
+        "es": { "question": "¿Qué película animada generó una mayor recaudación bruta en taquillas cinematográficas a nivel mundial?", "metric": "taquilla global en USD", "displayA": "$928 millones", "displayB": "$1,067 millones", "funFact": "Toy Story 3 fue la primera obra de Pixar en romper la barrera de los mil millones de dólares, apoyada en un cierre generacional emotivo." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "The Phantom of the Opera Broadway", "value": 13981 },
+        "optionB": { "name": "Cats Broadway", "value": 7485 },
+        "en": { "question": "Which legendary musical logged more live performances over its historic Broadway run?", "metric": "Broadway performances", "displayA": "13,981 shows", "displayB": "7,485 shows", "funFact": "The Phantom of the Opera is officially the longest-running show in Broadway history, closing in 2023 after 35 incredible years." },
+        "es": { "question": "¿Qué musical legendario registró más representaciones teatrales en vivo en la historia de Broadway?", "metric": "funciones en Broadway", "displayA": "13,981 funciones", "displayB": "7,485 funciones", "funFact": "El Fantasma de la Ópera es oficialmente el espectáculo de mayor duración en la historia de Broadway, bajando el telón tras 35 años." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "The Matrix (1999) Budget", "value": 63 },
+        "optionB": { "name": "Terminator 2 (1991) Budget", "value": 102 },
+        "en": { "question": "Which iconic sci-fi action film required a higher initial production budget?", "metric": "million USD budget", "valueA": 63, "valueB": 102, "displayA": "$63 million", "displayB": "$102 million", "funFact": "Terminator 2 was the most expensive film ever made up to 1991, pushing CGI technology to its absolute limits." },
+        "es": { "question": "¿Qué película de ciencia ficción icónica requirió un presupuesto de producción inicial más alto?", "metric": "millones de USD de presupuesto", "displayA": "$63 millones", "displayB": "$102 millones", "funFact": "Terminator 2 fue la película más cara del mundo en 1991, llevando la tecnología de efectos digitales (CGI) a fronteras inexploradas." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "Dr. Dre Net Worth", "value": 500 },
+        "optionB": { "name": "Jay-Z Net Worth", "value": 2500 },
+        "en": { "question": "Which hip-hop business mogul holds a higher estimated net worth?", "metric": "million USD net worth", "valueA": 500, "valueB": 2500, "displayA": "$500 million", "displayB": "$2.5 billion", "funFact": "Jay-Z became hip-hop's first billionaire, expanding his wealth via fine art, fashion, luxury liquor brands, and corporate investments." },
+        "es": { "question": "¿Qué magnate y productor del hip-hop posee una fortuna estimada más alta?", "metric": "millones de USD netos", "displayA": "$500 millones", "displayB": "$2.5 mil millones", "funFact": "Jay-Z se convirtió en el primer multimillonario del hip-hop, diversificando en arte, marcas de licor premium e inversiones de capital." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "Eminem Album Sales", "value": 61500000 },
+        "optionB": { "name": "Drake Album Sales", "value": 33500000 },
+        "en": { "question": "Which artist has moved more certified pure physical and digital album units in the US market?", "metric": "certified US album sales", "displayA": "61.5 million sales", "displayB": "33.5 million sales", "funFact": "While Drake rules modern digital streaming metrics, Eminem dominates pure album unit sales from the physical era." },
+        "es": { "question": "¿Qué artista musical registra más unidades de álbumes puras certificadas en formato físico/digital en EE. UU.?", "metric": "ventas de álbumes certificadas", "displayA": "61.5 millones", "displayB": "33.5 millones", "funFact": "Aunque Drake domina la era del streaming digital, Eminem conserva una ventaja brutal en la venta tradicional de discos compactos." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "One Piece Manga Sales", "value": 516000000 },
+        "optionB": { "name": "Dragon Ball Manga Sales", "value": 300000000 },
+        "en": { "question": "Which manga series has achieved higher total print circulation worldwide?", "metric": "manga copies in circulation", "displayA": "516 million copies", "displayB": "300 million copies", "funFact": "Eiichiro Oda's One Piece holds a Guinness World Record for the most copies published for the same comic book series by a single author." },
+        "es": { "question": "¿Qué serie de manga japonesa ha logrado un volumen de circulación impresa global más alto?", "metric": "copias impresas en circulación", "displayA": "516 millones", "displayB": "300 millones", "funFact": "One Piece de Eiichiro Oda posee un récord Guinness por la mayor cantidad de copias impresas de un cómic redactado por un solo autor." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "Harry Potter and the Deathly Hallows Part 2", "value": 1342000000 },
+        "optionB": { "name": "The Dark Knight Rises", "value": 1081000000 },
+        "en": { "question": "Which Warner Bros. cinema release brought in a larger total global box office payout?", "metric": "worldwide box office USD", "displayA": "$1.34 billion", "displayB": "$1.08 billion", "funFact": "The epic fantasy finale of the Harry Potter wizarding journey became the highest-grossing film for Warner Bros. for over a decade." },
+        "es": { "question": "¿Qué película distribuida por Warner Bros. atrajo una mayor recaudación de taquilla global?", "metric": "taquilla global en USD", "displayA": "$1.34 mil millones", "displayB": "$1.08 mil millones", "funFact": "El épico cierre cinematográfico de las aventuras de Harry Potter se mantuvo como la obra más taquillera de Warner por más de una década." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "Seinfeld Syndication Revenue", "value": 4800000000 },
+        "optionB": { "name": "Friends Netflix Deal (2019)", "value": 100000000 },
+        "en": { "question": "Which legendary sitcom generated more revenue from its historical multi-decade rerun syndication deals?", "metric": "estimated USD in total syndication", "displayA": "$4.8 billion", "displayB": "$100 million (single year deal)", "funFact": "Seinfeld made astronomical sums for its creators after its run ended, continuously broadcasting on local TV channels worldwide." },
+        "es": { "question": "¿Qué legendaria comedia generó más ingresos totales históricos mediante acuerdos de retransmisión (syndication)?", "metric": "ingresos por retransmisión en USD", "displayA": "$4.8 mil millones", "displayB": "$100 millones (acuerdo anual)", "funFact": "Seinfeld generó sumas astronómicas para sus creadores tras su finalización, vendiéndose a canales locales del planeta por décadas." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "Star Wars: A New Hope (1977)", "value": 11000000 },
+        "optionB": { "name": "Superman (1978)", "value": 55000000 },
+        "en": { "question": "Which late-1970s sci-fi/fantasy milestone film required a higher initial production budget?", "metric": "million USD production cost", "valueA": 11, "valueB": 55, "displayA": "$11 million", "displayB": "$55 million", "funFact": "George Lucas had to work with a highly restrictive budget on the original Star Wars, relying on innovative scale models and practical camera tricks." },
+        "es": { "question": "¿Qué película de ciencia ficción/fantasía de finales de los 70 requirió un presupuesto de producción más alto?", "metric": "millones de USD de costo", "displayA": "$11 millones", "displayB": "$55 millones", "funFact": "George Lucas operó con un presupuesto muy ajustado en Star Wars, dependiendo de maquetas y trucos ópticos artesanales." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "The Weeknd Blinding Lights Streams", "value": 4300000000 },
+        "optionB": { "name": "Ed Sheeran Shape of You Streams", "value": 3900000000 },
+        "en": { "question": "Which mega-hit single holds the record for the most play streams in Spotify history?", "metric": "total track play streams", "displayA": "4.3 billion streams", "displayB": "3.9 billion streams", "funFact": "The Weeknd's 80s-inspired track 'Blinding Lights' overtook Ed Sheeran to establish an absolute record on the streaming service." },
+        "es": { "question": "¿Qué mega-éxito musical ostenta el récord de la canción con más reproducciones en la historia de Spotify?", "metric": "reproducciones de pista totales", "displayA": "4.3 mil millones", "displayB": "3.9 mil millones", "funFact": "El tema con vibra ochentera 'Blinding Lights' de The Weeknd superó a Ed Sheeran para fijar el récord absoluto." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "Godzilla Movie Count", "value": 38 },
+        "optionB": { "name": "James Bond Movie Count", "value": 25 },
+        "en": { "question": "Which iconic character cinematic franchise features a higher volume of official feature-length films?", "metric": "official full-length movies", "displayA": "38 films", "displayB": "25 films", "funFact": "Japan's Toho Studios has produced over 30 Godzilla films alone since the irradiated monster first debuted in 1954." },
+        "es": { "question": "¿Qué franquicia de personaje cinematográfico cuenta con un mayor volumen de largometrajes oficiales?", "metric": "películas oficiales en catálogo", "displayA": "38 películas", "displayB": "25 películas", "funFact": "Los estudios Toho de Japón han producido más de 30 películas de Godzilla desde el debut en blanco y negro del monstruo en 1954." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "The Dark Knight IMAX Screen Count", "value": 100 },
+        "optionB": { "name": "Oppenheimer IMAX Screen Count", "value": 740 },
+        "en": { "question": "Which Christopher Nolan film achieved a wider initial commercial premium large format IMAX screen release?", "metric": "IMAX screen rollout", "valueA": 100, "valueB": 740, "displayA": "100 screens (2008)", "displayB": "740 screens (2023)", "funFact": "The infrastructure for premium IMAX theaters expanded dramatically worldwide over the 15-year gap between both films." },
+        "es": { "question": "¿Qué película dirigida por Christopher Nolan obtuvo un despliegue de pantallas IMAX comerciales más amplio en su estreno?", "metric": "despliegue de salas IMAX", "displayA": "100 salas (2008)", "displayB": "740 salas (2023)", "funFact": "La infraestructura global de salas de gran formato IMAX creció de forma masiva en la brecha de 15 años entre ambas producciones." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "Spirited Away Global Gross", "value": 395000000 },
+        "optionB": { "name": "Your Name Global Gross", "value": 382000000 },
+        "en": { "question": "Which landmark Japanese anime feature film achieved a higher lifetime global box office haul?", "metric": "worldwide box office USD", "displayA": "$395 million", "displayB": "$382 million", "funFact": "Studio Ghibli's Spirited Away held the absolute anime box office crown for years and won the Academy Award for Best Animated Feature." },
+        "es": { "question": "¿Qué aclamada película de anime japonesa logró una recaudación de taquilla global acumulada más alta?", "metric": "taquilla global en USD", "displayA": "$395 millones", "displayB": "$382 millones", "funFact": "El viaje de Chihiro de Studio Ghibli retuvo la corona del anime por años y ganó el Óscar a la Mejor Película Animada." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "SpongeBob SquarePants Seasons", "value": 14 },
+        "optionB": { "name": "Family Guy Seasons", "value": 22 },
+        "en": { "question": "Which popular animated comedy television series has logged more broadcast seasons?", "metric": "broadcasted seasons", "valueA": 14, "valueB": 22, "displayA": "14 seasons", "displayB": "22 seasons", "funFact": "Family Guy debuted in 1999, surviving multiple network cancellations to become a long-running late-night cartoon staple." },
+        "es": { "question": "¿Qué popular serie cómica de animación en televisión ha acumulado más temporadas de emisión?", "metric": "temporadas emitidas", "displayA": "14 temporadas", "displayB": "22 temporadas", "funFact": "Padre de Familia debutó en 1999, sobreviviendo a cancelaciones de la cadena Fox para volverse un pilar de la comedia animada." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "Interstellar Runtime", "value": 169 },
+        "optionB": { "name": "Inception Runtime", "value": 148 },
+        "en": { "question": "Which brain-bending sci-fi blockbuster has a longer official theatrical running time?", "metric": "minutes of runtime", "valueA": 169, "valueB": 148, "displayA": "169 minutes", "displayB": "148 minutes", "funFact": "Interstellar uses its nearly three-hour length to paint a sweeping cinematic cosmic journey incorporating realistic physics theories." },
+        "es": { "question": "¿Qué compleja producción cinematográfica de ciencia ficción dura más tiempo en su montaje de cines?", "metric": "minutos de duración", "displayA": "169 minutos", "displayB": "148 minutos", "funFact": "Interstellar extiende su metraje casi a las tres horas para desplegar una odisea cósmica basada en teorías de física real." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "The Witcher S1 Viewers", "value": 76000000 },
+        "optionB": { "name": "Squid Game S1 Viewers", "value": 142000000 },
+        "en": { "question": "Which streaming television series season recorded a higher household viewership count in its initial 28 days on Netflix?", "metric": "member households viewing", "valueA": 76000000, "valueB": 142000000, "displayA": "76 million households", "displayB": "142 million households", "funFact": "The South Korean survival drama Squid Game became an overnight cultural phenomenon, breaking all historical Netflix records." },
+        "es": { "question": "¿Qué serie de televisión rompió récords al registrar más cuentas de hogares reproduciendo sus capítulos en sus primeros 28 días en Netflix?", "metric": "cuentas de hogares en reproducción", "displayA": "76 millones de hogares", "displayB": "142 millones de hogares", "funFact": "El drama de supervivencia coreano Squid Game se convirtió en un fenómeno global de la noche a la mañana, rompiendo récords." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "Beatles No. 1 Hits (US)", "value": 20 },
+        "optionB": { "name": "Michael Jackson No. 1 Hits (US)", "value": 13 },
+        "en": { "question": "Which musical artist family achieved more official chart-topping number-one singles on the US Billboard Hot 100?", "metric": "Billboard No. 1 singles", "displayA": "20 singles", "displayB": "13 singles", "funFact": "The Beatles hold the ultimate record for most number-one hits in US history, achieved in a single decade during the 1960s." },
+        "es": { "question": "¿Qué artista o agrupación musical acumuló más sencillos número uno oficiales en la lista Billboard Hot 100 de EE. UU.?", "metric": "sencillos número uno en Billboard", "displayA": "20 sencillos", "displayB": "13 sencillos", "funFact": "The Beatles sostienen el récord absoluto de éxitos número uno en EE. UU., logrados de forma increíble en los años 60." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "Minecraft YouTube Views", "value": 1000000000000 },
+        "optionB": { "name": "GTA V YouTube Views", "value": 100000000000 },
+        "en": { "question": "Which video game topic has accumulated a higher aggregate milestone for total collective views across YouTube?", "metric": "total platform view counts", "displayA": "1 trillion views", "displayB": "100 billion views", "funFact": "Minecraft became the first video game ecosystem to cross the unfathomable milestone of one trillion views on YouTube." },
+        "es": { "question": "¿Qué temática de videojuego ha acumulado un hito agregado de reproducciones totales más alto en YouTube?", "metric": "reproducciones totales en plataforma", "displayA": "1 billón (trillion) de vistas", "displayB": "100 mil millones de vistas", "funFact": "Minecraft se convirtió en la primera propiedad intelectual o videojuego en cruzar el hito de un billón de vistas en YouTube." }
+    },
+    {
+        "category": "Entertainment",
+        "optionA": { "name": "Grammy Awards Beyoncé", "value": 32 },
+        "optionB": { "name": "Grammy Awards Jay-Z", "value": 24 },
+        "en": { "question": "Which elite musical artist has taken home more total competitive Grammy Awards over their career?", "metric": "Grammy trophies won", "displayA": "32 Grammy Awards", "displayB": "24 Grammy Awards", "funFact": "Beyoncé established an all-time record as the most decorated artist in Grammy history after her wins in 2023." },
+        "es": { "question": "¿Qué estrella de la música ha acumulado más gramófonos dorados competitivos en la historia de los premios Grammy?", "metric": "trofeos Grammy ganados", "displayA": "32 Grammys", "displayB": "24 Grammys", "funFact": "Beyoncé fijó el récord absoluto como la artista más condecorada en la historia de los Grammys tras sus victorias en 2023." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "Rungrado 1st of May Stadium", "value": 114000 },
+        "optionB": { "name": "Camp Nou (Barcelona)", "value": 99354 },
+        "en": { "question": "Which multi-purpose sports stadium has a higher official seating capacity?", "metric": "spectators capacity", "displayA": "114,000 seats", "displayB": "99,354 seats", "funFact": "Located in Pyongyang, North Korea, the Rungrado May Day Stadium features a design resembling a magnolia blossom." },
+        "es": { "question": "¿Qué estadio deportivo tiene una mayor capacidad oficial de espectadores sentados?", "metric": "capacidad de espectadores", "displayA": "114,000 asientos", "displayB": "99,354 asientos", "funFact": "Ubicado en Pionyang, Corea del Norte, el Estadio Primero de Mayo presenta un diseño inspirado en una flor de magnolia." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "Cristiano Ronaldo", "value": 890 },
+        "optionB": { "name": "Lionel Messi", "value": 830 },
+        "en": { "question": "Which active legendary football player has scored more official career goals?", "metric": "official career goals", "displayA": "890+ goals", "displayB": "830+ goals", "funFact": "Both titans have broken every modern scoring record, battling at the pinnacle of football for over 15 years." },
+        "es": { "question": "¿Qué legendario futbolista en activo ha anotado más goles oficiales en su carrera?", "metric": "goles oficiales totales", "displayA": "890+ goles", "displayB": "830+ goles", "funFact": "Ambos titanes han roto todos los récords de goleo modernos, compitiendo en la cúspide por más de 15 años." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "Michael Phelps", "value": 23 },
+        "optionB": { "name": "Usain Bolt", "value": 8 },
+        "en": { "question": "Which athlete has won more Olympic Gold Medals during their career?", "metric": "Olympic gold medals", "displayA": "23 Gold Medals", "displayB": "8 Gold Medals", "funFact": "American swimmer Michael Phelps is the most decorated Olympian of all time, with 28 medals overall." },
+        "es": { "question": "¿Qué atleta ha ganado más Medallas de Oro Olímpicas durante su carrera?", "metric": "medallas de oro olímpicas", "displayA": "23 Medallas de Oro", "displayB": "8 Medallas de Oro", "funFact": "El nadador estadounidense Michael Phelps es el atleta olímpico más condecorado de la historia, con 28 medallas en total." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "Tour de France Distance", "value": 3500 },
+        "optionB": { "name": "Giro d'Italia Distance", "value": 3400 },
+        "en": { "question": "Which cycling Grand Tour traditionally covers a longer total race distance?", "metric": "average kilometers in distance", "displayA": "3,500 km", "displayB": "3,400 km", "funFact": "The Tour de France is the most prestigious cycling event, Testing human endurance across grueling alpine mountain stages." },
+        "es": { "question": "¿Qué Gran Vuelta ciclista cubre tradicionalmente una distancia total de carrera más larga?", "metric": "kilómetros de carrera promedio", "displayA": "3,500 km", "displayB": "3,400 km", "funFact": "El Tour de Francia es la carrera de ciclismo más prestigiosa, exigiendo el límite humano en etapas alpinas." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "LeBron James Career Points", "value": 40000 },
+        "optionB": { "name": "Kareem Abdul-Jabbar Points", "value": 38387 },
+        "en": { "question": "Who scored more total regular-season points in NBA history?", "metric": "NBA regular season points", "displayA": "40,000+ points", "displayB": "38,387 points", "funFact": "LeBron James broke Kareem's long-standing scoring record recently, a milestone once thought completely untouchable." },
+        "es": { "question": "¿Quién anotó más puntos totales en temporada regular en la historia de la NBA?", "metric": "puntos en temporada regular", "displayA": "40,000+ puntos", "displayB": "38,387 puntos", "funFact": "LeBron James superó el legendario récord de anotación de Kareem Abdul-Jabbar, una marca que se creía imbatible." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "Formula 1 Calendar", "value": 24 },
+        "optionB": { "name": "NASCAR Cup Series Races", "value": 36 },
+        "en": { "question": "Which motorsport series schedules more official point-scoring races in a regular season calendar?", "metric": "championship races", "valueA": 24, "valueB": 36, "displayA": "24 Grands Prix", "displayB": "36 Cup Races", "funFact": "NASCAR features an incredibly dense American racing calendar, competing almost every weekend from February to November." },
+        "es": { "question": "¿Qué categoría de automovilismo programa más carreras oficiales por campeonato en su calendario regular?", "metric": "carreras por campeonato", "displayA": "24 Grandes Premios", "displayB": "36 Carreras Cup", "funFact": "NASCAR tiene un calendario de carreras sumamente denso en EE. UU., compitiendo casi cada fin de semana." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "World Cup Teams (2026)", "value": 48 },
+        "optionB": { "name": "World Cup Teams (2022)", "value": 32 },
+        "en": { "question": "Which FIFA Men's World Cup tournament structure contains a higher number of qualifying countries?", "metric": "qualified national teams", "displayA": "48 teams (2026)", "displayB": "32 teams (2022)", "funFact": "The 2026 World Cup across North America features an expanded format, bringing in 16 additional global nations." },
+        "es": { "question": "¿Qué estructura de torneo de la Copa Mundial Masculina de la FIFA contiene mayor cantidad de países clasificados?", "metric": "selecciones nacionales clasificadas", "displayA": "48 selecciones (2026)", "displayB": "32 selecciones (2022)", "funFact": "La Copa del Mundo de 2026 organizada en Norteamérica expande su formato histórico sumando 16 selecciones más." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "Roger Federer Slams", "value": 20 },
+        "optionB": { "name": "Novak Djokovic Slams", "value": 24 },
+        "en": { "question": "Which men's tennis icon has secured more career Grand Open single titles?", "metric": "Grand Slam titles", "valueA": 20, "valueB": 24, "displayA": "20 titles", "displayB": "24 titles", "funFact": "Novak Djokovic stands alone at the top of men's tennis history for the most singles Grand Slam trophies captured." },
+        "es": { "question": "¿Qué ícono del tenis masculino ha asegurado más títulos individuales de Grand Slam en su carrera?", "metric": "títulos de Grand Slam", "displayA": "20 títulos", "displayB": "24 títulos", "funFact": "Novak Djokovic lidera en solitario la historia del tenis masculino con la mayor cantidad de trofeos de Grand Slam." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "Real Madrid Champions Leagues", "value": 15 },
+        "optionB": { "name": "AC Milan Champions Leagues", "value": 7 },
+        "en": { "question": "Which football club has won more UEFA Champions League titles?", "metric": "UCL trophies", "displayA": "15 titles", "displayB": "7 titles", "funFact": "Real Madrid is the undisputed king of European football, holding more than double the trophies of most elite clubs." },
+        "es": { "question": "¿Qué club de fútbol ha ganado más títulos de la UEFA Champions League a lo largo de su historia?", "metric": "orejonas (copas UCL)", "displayA": "15 títulos", "displayB": "7 títulos", "funFact": "El Real Madrid es el rey indiscutible de Europa, duplicando los trofeos de la mayoría de clubes de élite." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "Mike Tyson Career Knockouts", "value": 44 },
+        "optionB": { "name": "Muhammad Ali Career Knockouts", "value": 37 },
+        "en": { "question": "Which legendary heavyweight boxer finished more professional fights by knockout (KO)?", "metric": "career knockouts", "displayA": "44 KOs", "displayB": "37 KOs", "funFact": "Mike Tyson was feared for his terrifying early-round explosive punching power, ending fights in seconds during his prime." },
+        "es": { "question": "¿Qué legendario boxeador de peso pesado terminó más peleas profesionales por la vía del nocaut (KO)?", "metric": "nocauts en su carrera", "displayA": "44 KOs", "displayB": "37 KOs", "funFact": "Mike Tyson era temido por su terrorífico y explosivo poder de golpeo en los primeros asaltos durante su apogeo." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "Tom Brady Super Bowls", "value": 7 },
+        "optionB": { "name": "Charles Haley Super Bowls", "value": 5 },
+        "en": { "question": "Which NFL player has won more Super Bowl championship rings?", "metric": "Super Bowl rings", "displayA": "7 rings", "displayB": "5 rings", "funFact": "Tom Brady has won more Super Bowls than any single franchise in NFL history over his 23-year career." },
+        "es": { "question": "¿Qué jugador de la NFL ha ganado más anillos de campeonato del Super Bowl?", "metric": "anillos de Super Bowl", "displayA": "7 anillos", "displayB": "5 anillos", "funFact": "Tom Brady ha ganado más Super Bowls que cualquier franquicia de la NFL por sí sola a lo largo de su carrera." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "Boston Celtics Championships", "value": 18 },
+        "optionB": { "name": "Los Angeles Lakers Championships", "value": 17 },
+        "en": { "question": "Which franchise holds more total championship titles in NBA history?", "metric": "NBA championships", "displayA": "18 titles", "displayB": "17 titles", "funFact": "The Celtics took the lead after winning the 2024 NBA Finals, breaking their tie with their bitter rivals, the Lakers." },
+        "es": { "question": "¿Qué franquicia ostenta más títulos de campeonato totales en la historia de la NBA?", "metric": "campeonatos de la NBA", "displayA": "18 títulos", "displayB": "17 títulos", "funFact": "Los Celtics tomaron la delantera tras ganar las Finales de 2024, rompiendo el empate con sus eternos rivales Lakers." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "Lewis Hamilton F1 Wins", "value": 103 },
+        "optionB": { "name": "Michael Schumacher F1 Wins", "value": 91 },
+        "en": { "question": "Which driver has recorded more official Grand Prix victories in Formula 1 history?", "metric": "F1 race wins", "displayA": "103 wins", "displayB": "91 wins", "funFact": "Lewis Hamilton became the first driver in F1 history to cross the triple-digit race win milestone." },
+        "es": { "question": "¿Qué piloto ha registrado más victorias en Grandes Premios en la historia de la Fórmula 1?", "metric": "victorias en Grandes Premios", "displayA": "103 victorias", "displayB": "91 victorias", "funFact": "Lewis Hamilton se convirtió en el primer piloto en la historia de la F1 en superar la barrera de las 100 victorias." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "Simone Biles World Medals", "value": 30 },
+        "optionB": { "name": "Vitaly Scherbo World Medals", "value": 23 },
+        "en": { "question": "Which gymnast has captured more World Championship medals?", "metric": "World Championship medals", "displayA": "30 medals", "displayB": "23 medals", "funFact": "Simone Biles is the most decorated gymnast of all time, known for executing gravity-defying moves named after her." },
+        "es": { "question": "¿Qué gimnasta ha capturado más medallas en Campeonatos Mundiales?", "metric": "medallas en mundiales de gimnasia", "displayA": "30 medallas", "displayB": "23 medallas", "funFact": "Simone Biles es la gimnasta más condecorada de la historia, famosa por ejecutar movimientos que llevan su nombre." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "New York Yankees World Series", "value": 27 },
+        "optionB": { "name": "St. Louis Cardinals World Series", "value": 11 },
+        "en": { "question": "Which MLB franchise has won more World Series titles?", "metric": "World Series titles", "displayA": "27 titles", "displayB": "11 titles", "funFact": "The Yankees dominate baseball history in championships, though they have been chasing their 28th title since 2009." },
+        "es": { "question": "¿Qué franquicia de la MLB ha ganado más títulos de la Serie Mundial?", "metric": "títulos de Serie Mundial", "displayA": "27 títulos", "displayB": "11 títulos", "funFact": "Los Yankees dominan la historia del béisbol en campeonatos, aunque buscan su corona 28 desde el año 2009." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "Barry Bonds Single Season HR", "value": 73 },
+        "optionB": { "name": "Aaron Judge Single Season HR", "value": 62 },
+        "en": { "question": "Who hit more home runs in a single MLB regular season?", "metric": "home runs in a season", "displayA": "73 HR (2001)", "displayB": "62 HR (2022)", "funFact": "Barry Bonds holds the ultimate single-season record, while Aaron Judge set the clean American League record in 2022." },
+        "es": { "question": "¿Quién conectó más cuadrangulares (home runs) en una sola temporada regular de la MLB?", "metric": "cuadrangulares en una campaña", "displayA": "73 HR (2001)", "displayB": "62 HR (2022)", "funFact": "Barry Bonds ostenta el récord absoluto de una temporada, mientras Aaron Judge fijó la marca limpia de la Liga Americana." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "Wayne Gretzky NHL Points", "value": 2857 },
+        "optionB": { "name": "Jaromir Jagr NHL Points", "value": 1921 },
+        "en": { "question": "Which hockey legend scored more total career points in the NHL?", "metric": "NHL career points", "displayA": "2,857 points", "displayB": "1,921 points", "funFact": "Wayne Gretzky is called 'The Great One'; he has more assists than any other player has total points." },
+        "es": { "question": "¿Qué leyenda del hockey sobre hielo anotó más puntos totales en su carrera en la NHL?", "metric": "puntos en carrera NHL", "displayA": "2,857 puntos", "displayB": "1,921 puntos", "funFact": "Wayne Gretzky es apodado 'The Great One'; tiene más asistencias que cualquier otro jugador puntos totales." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "Maradona World Cup Goals", "value": 8 },
+        "optionB": { "name": "Miroslav Klose World Cup Goals", "value": 16 },
+        "en": { "question": "Who has scored more total goals across their appearances in FIFA World Cup history?", "metric": "World Cup tournament goals", "valueA": 8, "valueB": 16, "displayA": "8 goals", "displayB": "16 goals", "funFact": "Germany's Miroslav Klose is the all-time top scorer in World Cup history, breaking Ronaldo's record in 2014." },
+        "es": { "question": "¿Quién ha anotado más goles totales a lo largo de sus participaciones en la historia de los Mundiales de la FIFA?", "metric": "goles en copas del mundo", "displayA": "8 goles", "displayB": "16 goles", "funFact": "El alemán Miroslav Klose es el máximo goleador histórico de los Mundiales, rompiendo el récord de Ronaldo en 2014." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "Usain Bolt 100m Speed", "value": 44 },
+        "optionB": { "name": "Cheetah Top Speed", "value": 120 },
+        "en": { "question": "Which runner clocks a higher maximum top speed metric?", "metric": "km/h peak velocity", "valueA": 44.7, "valueB": 120, "displayA": "44.7 km/h (Human Record)", "displayB": "120 km/h (Animal Peak)", "funFact": "Usain Bolt hit his iconic 44.7 km/h peak during his 9.58-second world record sprint in Berlin in 2009." },
+        "es": { "question": "¿Qué corredor registra una velocidad punta máxima más alta?", "metric": "velocidad máxima en km/h", "displayA": "44.7 km/h (Récord Humano)", "displayB": "120 km/h (Pico Animal)", "funFact": "Usain Bolt alcanzó su icónico pico de 44.7 km/h durante su sprint de récord mundial de 9.58 segundos en Berlín en 2009." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "UFC Fastest Knockout", "value": 5 },
+        "optionB": { "name": "Boxing Fastest Heavyweight KO", "value": 10 },
+        "en": { "question": "Which combat sports event recorded a faster official professional knockout time?", "metric": "seconds to finish fight (lower is faster)", "valueA": 5, "valueB": 10, "displayA": "5 seconds (Jorge Masvidal)", "displayB": "10 seconds (Teddy Thompson)", "funFact": "Jorge Masvidal knocked out Ben Askren in just 5 seconds with a spectacular flying knee at UFC 239." },
+        "es": { "question": "¿Qué evento de deportes de contacto registró un tiempo de nocaut profesional oficial más rápido?", "metric": "segundos transcurridos (menor valor gana)", "displayA": "5 segundos (Jorge Masvidal)", "displayB": "10 segundos (Teddy Thompson)", "funFact": "Jorge Masvidal noqueó a Ben Askren en solo 5 segundos con una rodilla voladora espectacular en el evento UFC 239." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "Nadal French Open Titles", "value": 14 },
+        "optionB": { "name": "Federer Wimbledon Titles", "value": 8 },
+        "en": { "question": "Which tennis superstar dominates a single Grand Slam tournament with more titles?", "metric": "titles at a single Grand Slam", "displayA": "14 Roland Garros titles", "displayB": "8 Wimbledon titles", "funFact": "Rafael Nadal is called the 'King of Clay' due to his unmatched dominance on the red dirt of Paris." },
+        "es": { "question": "¿Qué superestrella del tenis domina un único torneo de Grand Slam con mayor cantidad de títulos?", "metric": "títulos en un solo Grand Slam", "displayA": "14 títulos de Roland Garros", "displayB": "8 títulos de Wimbledon", "funFact": "Rafael Nadal es llamado el 'Rey de la Arcilla' debido a su dominio inigualable en la tierra batida de París." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "NFL Regular Season Games", "value": 17 },
+        "optionB": { "name": "MLB Regular Season Games", "value": 162 },
+        "en": { "question": "Which American sports league features more regular-season games per team?", "metric": "games per team in regular season", "valueA": 17, "valueB": 162, "displayA": "17 games", "displayB": "162 games", "funFact": "Baseball teams play almost every day from April to October, making MLB a marathon of physical endurance." },
+        "es": { "question": "¿Qué liga deportiva estadounidense programa más partidos de temporada regular por equipo?", "metric": "partidos de temporada regular", "displayA": "17 partidos", "displayB": "162 partidos", "funFact": "Los equipos de béisbol juegan casi todos los días de abril a octubre, haciendo de la MLB un maratón de resistencia." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "India Cricket World Cups", "value": 2 },
+        "optionB": { "name": "Australia Cricket World Cups", "value": 6 },
+        "en": { "question": "Which country has won more ICC Men's Cricket World Cup titles?", "metric": "Cricket World Cups", "valueA": 2, "valueB": 6, "displayA": "2 titles", "displayB": "6 titles", "funFact": "Australia is the most successful nation in cricket history, dominating the 50-over World Cup tournament." },
+        "es": { "question": "¿Qué país ha ganado más títulos de la Copa Mundial de Críquet Masculina de la ICC?", "metric": "Copas Mundiales de Críquet", "displayA": "2 títulos", "displayB": "6 títulos", "funFact": "Australia es la nación más exitosa en la historia del críquet, dominando el torneo mundial de 50 overs." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "Highest Basketball Jump", "value": 127 },
+        "optionB": { "name": "Highest Olympic High Jump", "value": 245 },
+        "en": { "question": "Which vertical leap measurement reaches a higher absolute marker?", "metric": "centimeters of height", "valueA": 127, "valueB": 245, "displayA": "127 cm (NBA Max Vertical)", "displayB": "245 cm (World High Jump Record)", "funFact": "Javier Sotomayor holds the high jump world record at 2.45 meters, clearing a bar higher than a standard soccer goalpost crossbar." },
+        "es": { "question": "¿Qué medición de salto vertical alcanza una marca absoluta más alta?", "metric": "centímetros de altura", "displayA": "127 cm (Salto Máximo NBA)", "displayB": "245 cm (Récord de Salto de Altura)", "funFact": "Javier Sotomayor ostenta el récord mundial de salto de altura con 2.45 metros, superando el travesaño de una portería de fútbol." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "All Blacks World Cups", "value": 3 },
+        "optionB": { "name": "Springboks World Cups", "value": 4 },
+        "en": { "question": "Which rugby national team has captured more Rugby World Cup trophies?", "metric": "Rugby World Cup titles", "valueA": 3, "valueB": 4, "displayA": "3 titles (New Zealand)", "displayB": "4 titles (South Africa)", "funFact": "South Africa's Springboks won back-to-back tournaments recently to stand alone as the most successful rugby nation." },
+        "es": { "question": "¿Qué selección nacional de rugby ha capturado más trofeos de la Copa del Mundo de Rugby?", "metric": "Copas del Mundo de Rugby", "displayA": "3 títulos (Nueva Zelanda)", "displayB": "4 títulos (Sudáfrica)", "funFact": "Los Springboks de Sudáfrica ganaron torneos consecutivos recientemente para coronarse como la nación de rugby más exitosa." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "Tour de France Yellow Jerseys", "value": 5 },
+        "optionB": { "name": "Wimbledon Men's Titles Record", "value": 8 },
+        "en": { "question": "Which historic sports record represents a higher number of title wins?", "metric": "individual titles won", "valueA": 5, "valueB": 8, "displayA": "5 Tour Titles (Merckx/Anquetil/Indurain/Hinault)", "displayB": "8 Wimbledon Titles (Roger Federer)", "funFact": "Roger Federer reigns supreme on the grass courts of London with his 8 historic Wimbledon singles titles." },
+        "es": { "question": "¿Qué récord deportivo histórico representa un número más alto de victorias por títulos?", "metric": "títulos individuales ganados", "displayA": "5 Títulos de Tour (Indurain/Merckx)", "displayB": "8 Títulos de Wimbledon (Federer)", "funFact": "Roger Federer reina supremo en las canchas de césped de Londres con sus 8 históricos títulos individuales de Wimbledon." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "Golf Majors Jack Nicklaus", "value": 18 },
+        "optionB": { "name": "Golf Majors Tiger Woods", "value": 15 },
+        "en": { "question": "Which golfing legend has captured more Major Championships?", "metric": "Major tournaments won", "displayA": "18 Majors", "displayB": "15 Majors", "funFact": "Jack Nicklaus holds the all-time record, while Tiger Woods remains close behind in second place." },
+        "es": { "question": "¿Qué leyenda del golf ha capturado más Campeonatos Mayores (Majors)?", "metric": "torneos Majors ganados", "displayA": "18 Majors", "displayB": "15 Majors", "funFact": "Jack Nicklaus ostenta el récord absoluto de todos los tiempos, mientras que Tiger Woods se mantiene cerca en segundo lugar." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "Sumo Makuuchi Championships", "value": 45 },
+        "optionB": { "name": "WWE World Championships John Cena", "value": 16 },
+        "en": { "question": "Which athletic championship streak reaches a higher total count of top-tier title reigns?", "metric": "top-tier championship titles", "displayA": "45 Titles (Hakuho Sho)", "displayB": "16 Titles (John Cena)", "funFact": "Legendary Yokozuna Hakuho Sho completely dominated modern professional sumo wrestling with an untouchable 45 top-division titles." },
+        "es": { "question": "¿Qué racha de campeonatos deportivos alcanza un conteo total más alto de reinados de primer nivel?", "metric": "títulos de campeonato máximo", "displayA": "45 Títulos (Hakuho Sho)", "displayB": "16 Títulos (John Cena)", "funFact": "El legendario Yokozuna Hakuho Sho dominó por completo el sumo profesional moderno con 45 títulos imbatibles." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "Iditarod Sled Race Distance", "value": 1560 },
+        "optionB": { "name": "Marathon Distance", "value": 42 },
+        "en": { "question": "Which endurance race covers a longer distance?", "metric": "kilometers of race distance", "displayA": "1,560 km", "displayB": "42.2 km", "funFact": "The Iditarod is a grueling dog sled race across the freezing wilderness of Alaska, taking over a week to complete." },
+        "es": { "question": "¿Qué carrera de resistencia cubre una distancia más larga?", "metric": "kilómetros de distancia de carrera", "displayA": "1,560 km", "displayB": "42.2 km", "funFact": "El Iditarod es una extenuante carrera de trineos tirados por perros a través del desierto helado de Alaska." }
+    },
+    {
+        "category": "Sports",
+        "optionA": { "name": "Highest Olympic Pole Vault", "value": 626 },
+        "optionB": { "name": "Soccer Goal Width", "value": 732 },
+        "en": { "question": "Which official sporting dimensions measurement spans wider/higher?", "metric": "centimeters", "valueA": 626, "valueB": 732, "displayA": "626 cm (Duplantis Pole Vault)", "displayB": "732 cm (Standard Goal Width)", "funFact": "Armand Duplantis has repeatedly broken the pole vault world record, clearing heights over 6.2 meters with incredible ease." },
+        "es": { "question": "¿Qué medición de dimensiones deportivas oficiales se extiende a mayor distancia/altura?", "metric": "centímetros", "displayA": "626 cm (Salto con Pértiga Duplantis)", "displayB": "732 cm (Ancho de Portería Estándar)", "funFact": "Armand Duplantis ha roto repetidamente el récord mundial de salto con pértiga, superando alturas de más de 6.2 metros." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "Mongol Empire Peak", "value": 24000000 },
+        "optionB": { "name": "Roman Empire Peak", "value": 5000000 },
+        "en": { "question": "Which ancient empire controlled a larger contiguous land area at its peak?", "metric": "square kilometers", "displayA": "24 million km²", "displayB": "5 million km²", "funFact": "Founded by Genghis Khan, the Mongol Empire became the largest contiguous land empire in human history." },
+        "es": { "question": "¿Qué imperio antiguo controló una mayor superficie de tierra contigua en su apogeo?", "metric": "kilómetros cuadrados", "displayA": "24 millones de km²", "displayB": "5 millones de km²", "funFact": "Fundado por Gengis Kan, el Imperio Mongol se convirtió en el imperio de tierra contigua más grande de la historia humana." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "Louis XIV (France)", "value": 72 },
+        "optionB": { "name": "Queen Victoria (UK)", "value": 63 },
+        "en": { "question": "Which historical monarch reigned for a longer recorded period?", "metric": "years on the throne", "displayA": "72 years", "displayB": "63 years", "funFact": "Louis XIV, the 'Sun King', holds the record for the longest verified reign of any sovereign monarch in European history." },
+        "es": { "question": "¿Qué monarca histórico reinó por un período de tiempo comprobado más largo?", "metric": "años en el trono", "displayA": "72 años", "displayB": "63 años", "funFact": "Luis XIV, el 'Rey Sol', ostenta el récord del reinado verificado más largo de cualquier monarca soberano en Europa." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "Cheops Pyramid Height", "value": 146 },
+        "optionB": { "name": "Colosseum Rome Height", "value": 48 },
+        "en": { "question": "Which ancient engineering structure was built taller?", "metric": "meters in absolute height", "displayA": "146 m", "displayB": "48 m", "funFact": "The Great Pyramid of Giza (Cheops) stood as the tallest man-made structure in the world for over 3,800 years." },
+        "es": { "question": "¿Qué estructura de ingeniería antigua fue construida a mayor altura?", "metric": "metros de altura absoluta", "displayA": "146 m", "displayB": "48 m", "funFact": "La Gran Pirámide de Guiza (Keops) se mantuvo como la estructura artificial más alta del mundo por más de 3,800 años." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "British Empire Peak", "value": 35500000 },
+        "optionB": { "name": "Mongol Empire Peak", "value": 24000000 },
+        "en": { "question": "Which historical empire covered a larger total landmass at its absolute maximum extent?", "metric": "square kilometers", "displayA": "35.5 million km²", "displayB": "24.0 million km²", "funFact": "The British Empire was the largest empire in world history, leading to the famous phrase 'the empire on which the sun never sets'." },
+        "es": { "question": "¿Qué imperio histórico cubrió una mayor masa de tierra total en su máxima extensión absoluta?", "metric": "kilómetros cuadrados", "displayA": "35.5 millones de km²", "displayB": "24.0 millones de km²", "funFact": "El Imperio Británico fue el más extenso de la historia humana, dando origen a la frase 'el imperio donde nunca se pone el sol'." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "American Revolutionary War", "value": 8 },
+        "optionB": { "name": "American Civil War", "value": 4 },
+        "en": { "question": "Which military conflict lasted for a longer duration of years?", "metric": "years of war duration", "valueA": 8, "valueB": 4, "displayA": "8 years (1775-1783)", "displayB": "4 years (1861-1865)", "funFact": "The Revolutionary War secured independence from Britain, lasting twice as long as the internal conflict over state secession and slavery." },
+        "es": { "question": "¿Qué conflicto militar se extendió durante una mayor cantidad de años?", "metric": "años de duración del conflicto", "displayA": "8 años (1775-1783)", "displayB": "4 años (1861-1865)", "funFact": "La Guerra de Independencia de EE. UU. duró el doble de años que su posterior conflicto civil interno." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "Black Death Casualties", "value": 75000000 },
+        "optionB": { "name": "Spanish Flu Casualties", "value": 50000000 },
+        "en": { "question": "Which global pandemic resulted in a higher estimated loss of human life?", "metric": "estimated human deaths", "displayA": "75-200 million deaths", "displayB": "20000000-50000000 deaths", "funFact": "The Black Death bubonic plague wiped out roughly 30% to 60% of Europe's entire population during the 14th century." },
+        "es": { "question": "¿Qué pandemia global resultó en una mayor pérdida estimada de vidas humanas?", "metric": "muertes humanas estimadas", "displayA": "75-200 millones", "displayB": "20-50 millones", "funFact": "La Peste Negra diezmó aproximadamente entre el 30% y el 60% de toda la población europea en el siglo XIV." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "Age of the Great Sphinx", "value": 4500 },
+        "optionB": { "name": "Age of Parthenon Athens", "value": 2460 },
+        "en": { "question": "Which historic architectural monument is older?", "metric": "estimated years of age", "displayA": "4,500+ years old", "displayB": "2,460 years old", "funFact": "The Great Sphinx of Giza was carved from a single ridge of limestone during Egypt's Old Kingdom era." },
+        "es": { "question": "¿Qué monumento arquitectónico histórico es más antiguo?", "metric": "años de antigüedad estimados", "displayA": "4,500+ años", "displayB": "2,460 años", "funFact": "La Gran Esfinge de Guiza fue esculpida directamente de un bloque de piedra caliza durante el Imperio Antiguo de Egipto." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "Mayan Civilization Peak", "value": 250 },
+        "optionB": { "name": "Aztec Empire Foundation", "value": 1325 },
+        "en": { "question": "Which Mesoamerican culture developed its classical golden era earlier in history?", "metric": "calendar era (lower AD/BC means earlier)", "valueA": 250, "valueB": 1325, "displayA": "250 AD (Classic Peak)", "displayB": "1325 AD (Tenochtitlan Foundation)", "funFact": "The Maya flourished for centuries before the Aztec Mexica tribe built their spectacular capital of Tenochtitlan." },
+        "es": { "question": "¿Qué cultura mesoamericana desarrolló su época clásica dorada más temprano en la historia?", "metric": "año histórico de desarrollo", "displayA": "Año 250 d.C. (Auge Clásico)", "displayB": "Año 1325 d.C. (Fundación)", "funFact": "Los mayas florecieron durante siglos antes de que la tribu mexica azteca fundara la gran ciudad de Tenochtitlan." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "Alexander the Great Empire", "value": 5200000 },
+        "optionB": { "name": "Roman Empire Peak", "value": 5000000 },
+        "en": { "question": "Which classic empire controlled a slightly larger territorial area at its maximum size?", "metric": "square kilometers", "displayA": "5.2 million km²", "displayB": "5.0 million km²", "funFact": "Alexander the Great conquered the massive Persian Empire in just over a decade, stretching Macedonian influence to India." },
+        "es": { "question": "¿Qué imperio de la antigüedad clásica controló un área territorial ligeramente más grande en su máximo tamaño?", "metric": "kilómetros cuadrados", "displayA": "5.2 millones de km²", "displayB": "5.0 millones de km²", "funFact": "Alejandro Magno conquistó el Imperio Persa en poco más de una década, extendiendo la influencia macedonia hasta la India." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "Code of Hammurabi", "value": 1750 },
+        "optionB": { "name": "Roman Twelve Tables", "value": 450 },
+        "en": { "question": "Which historic codified legal set was written earlier in ancient history?", "metric": "years before Christ (BCE) - higher is older", "valueA": 1750, "valueB": 450, "displayA": "1750 BCE", "displayB": "450 BCE", "funFact": "The Babylonian Code of Hammurabi is one of the oldest deciphered writings of significant length in the world, famous for 'an eye for an eye'." },
+        "es": { "question": "¿Qué conjunto de leyes escritas históricas fue redactado más temprano en la antigüedad?", "metric": "años antes de Cristo (a.C.)", "displayA": "1750 a.C.", "displayB": "450 a.C.", "funFact": "El Código de Hammurabi babilónico es una de las escrituras legislativas más antiguas, famoso por la 'ley del talión'." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "French Revolution Duration", "value": 10 },
+        "optionB": { "name": "American Revolutionary War", "value": 8 },
+        "en": { "question": "Which historic social transformation upheaval lasted for a longer period of internal conflict?", "metric": "years of internal conflict", "valueA": 10, "valueB": 8, "displayA": "10 years (1789-1799)", "displayB": "8 years (1775-1783)", "funFact": "The French Revolution dramatically reshaped European politics over a decade, concluding when Napoleon Bonaparte seized power." },
+        "es": { "question": "¿Qué levantamiento o conflicto revolucionario se extendió por una mayor cantidad de años?", "metric": "años de conflicto social", "displayA": "10 años (1789-1799)", "displayB": "8 años (1775-1783)", "funFact": "La Revolución Francesa transformó la política de Europa por una década, concluyendo con el golpe de Napoleón Bonaparte." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "First Crusade", "value": 1096 },
+        "optionB": { "name": "Norman Conquest of England", "value": 1066 },
+        "en": { "question": "Which major medieval historical event took place earlier in the timeline?", "metric": "calendar year (lower is earlier)", "valueA": 1096, "valueB": 1066, "displayA": "1096 AD", "displayB": "1066 AD (Battle of Hastings)", "funFact": "William the Conqueror invaded England in 1066, reshaping the English language and ruling structures decades before the Crusades began." },
+        "es": { "question": "¿Qué gran evento histórico de la Edad Media ocurrió más temprano en la línea del tiempo?", "metric": "año de nuestra era (menor valor gana)", "displayA": "1096 d.C.", "displayB": "1066 d.C. (Batalla de Hastings)", "funFact": "Guillermo el Conquistador invadió Inglaterra en 1066, alterando el idioma inglés décadas antes de las Cruzadas." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "Han Dynasty Duration", "value": 426 },
+        "optionB": { "name": "Qin Dynasty Duration", "value": 15 },
+        "en": { "question": "Which imperial Chinese dynasty retained sovereign control over China for a longer span of years?", "metric": "years of dynasty reign", "valueA": 426, "valueB": 15, "displayA": "426 years", "displayB": "15 years", "funFact": "While the Qin unified China and began the Great Wall, their brutal rule collapsed quickly, leading to the highly stable Han Golden Age." },
+        "es": { "question": "¿Qué dinastía imperial china retuvo el control soberano sobre el territorio por una mayor cantidad de años?", "metric": "años de reinado de la dinastía", "displayA": "426 años", "displayB": "15 años", "funFact": "Aunque la dinastía Qin unificó China e inició la Gran Muralla, su tiranía colapsó dando paso a la próspera era Han." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "Magna Carta Sign Date", "value": 1215 },
+        "optionB": { "name": "Discovery of Printing Press", "value": 1440 },
+        "en": { "question": "Which historic document or milestone occurred earlier in the European historical timeline?", "metric": "calendar year (lower is earlier)", "valueA": 1215, "valueB": 1440, "displayA": "1215 AD", "displayB": "1440 AD", "funFact": "King John of England signed the Magna Carta in 1215, establishing the legal principle that even the monarch is subject to law." },
+        "es": { "question": "¿Qué hito o documento histórico ocurrió más temprano en el calendario europeo?", "metric": "año histórico", "displayA": "1215 d.C.", "displayB": "1440 d.C.", "funFact": "El rey Juan I de Inglaterra firmó la Carta Magna en 1215, fijando el principio de que el rey debe someterse a la ley." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "Thirty Years' War", "value": 30 },
+        "optionB": { "name": "Peloponnesian War", "value": 27 },
+        "en": { "question": "Which major historical war conflict lasted for a longer duration of years?", "metric": "years of active war", "valueA": 30, "valueB": 27, "displayA": "30 years (1618-1648)", "displayB": "27 years (431-404 BCE)", "funFact": "The Thirty Years' War devastated Central Europe, ending with the Peace of Westphalia which created the modern nation-state framework." },
+        "es": { "question": "¿Qué gran conflicto bélico histórico duró una mayor cantidad de años en combate activo?", "metric": "años de guerra activa", "displayA": "30 años (1618-1648)", "displayB": "27 años (431-404 a.C.)", "funFact": "La Guerra de los Treinta Años devastó Europa Central, terminando con la Paz de Westfalia que definió las fronteras nacionales modernas." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "Ottoman Empire Lifespan", "value": 623 },
+        "optionB": { "name": "Byzantine Empire Lifespan", "value": 1123 },
+        "en": { "question": "Which imperial system survived for a longer recorded span of continuous centuries?", "metric": "years of imperial existence", "valueA": 623, "valueB": 1123, "displayA": "623 years (1300-1922)", "displayB": "1,123 years (330-1453)", "funFact": "The Byzantine Empire (the Eastern Roman Empire) survived for over a millennium until Constantinople fell to the Ottomans in 1453." },
+        "es": { "question": "¿Qué sistema imperial sobrevivió durante una mayor cantidad de siglos continuos en la historia?", "metric": "años de existencia del imperio", "displayA": "623 años (1300-1922)", "displayB": "1,123 años (330-1453)", "funFact": "El Imperio Bizantino sobrevivió por más de un milenio hasta que Constantinopla cayó ante los otomanos en 1453." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "Great Wall of China Length", "value": 21196 },
+        "optionB": { "name": "Roman Limes Border Wall", "value": 5000 },
+        "en": { "question": "Which ancient military defensive wall system extended for a longer geographic layout?", "metric": "kilometers of total defensive lines", "displayA": "21,196 km", "displayB": "5,000 km", "funFact": "The comprehensive archaeological mapping of the entire Great Wall system includes all branching paths, trenches, and natural hills." },
+        "es": { "question": "¿Qué sistema defensivo de muralla militar antiguo se extendió a lo largo de una mayor longitud geográfica?", "metric": "kilómetros de líneas defensivas", "displayA": "21,196 km", "displayB": "5,000 km", "funFact": "El mapeo arqueológico de la Gran Muralla China incluye ramificaciones, fosas y barreras naturales defensivas." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "First Olympic Games", "value": 776 },
+        "optionB": { "name": "Foundation of Rome", "value": 753 },
+        "en": { "question": "Which classical antiquity foundation event occurred earlier in the chronological timeline?", "metric": "years before Christ (BCE) - higher is earlier", "valueA": 776, "valueB": 753, "displayA": "776 BCE", "displayB": "753 BCE", "funFact": "The ancient Olympic Games in Olympia occurred a few decades before the legendary brothers Romulus and Remus founded Rome." },
+        "es": { "question": "¿Qué evento fundacional de la antigüedad clásica ocurrió más temprano en el tiempo cronológico?", "metric": "años antes de Cristo (a.C.)", "displayA": "776 a.C.", "displayB": "753 a.C.", "funFact": "Los antiguos Juegos Olímpicos en Olimpia ocurrieron un par de décadas antes de la mítica fundación de Roma por Rómulo y Remo." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "Spanish Armada Ships", "value": 130 },
+        "optionB": { "name": "Battle of Salamis Persian Fleet", "value": 1200 },
+        "en": { "question": "Which historic naval fleet military operation assembled a higher volume of combat warships?", "metric": "warships deployed", "valueA": 130, "valueB": 1200, "displayA": "130 galleons", "displayB": "1,200 triremes", "funFact": "Xerxes' Persian fleet at Salamis (480 BCE) was massive, but the unified Greek triremes used tactical bottlenecks to crush them." },
+        "es": { "question": "¿Qué operación militar naval movilizó una mayor cantidad de barcos de guerra de combate en la historia?", "metric": "navíos de guerra desplegados", "displayA": "130 galeones", "displayB": "1,200 triremes", "funFact": "La flota persa en Salamis (480 a.C.) era descomunal, pero las tácticas griegas en canales estrechos lograron destruirla." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "Machu Picchu Construction", "value": 1450 },
+        "optionB": { "name": "Chichen Itza El Castillo", "value": 1000 },
+        "en": { "question": "Which Native American monumental archaeological layout was constructed earlier in history?", "metric": "calendar year (lower is earlier)", "valueA": 1450, "valueB": 1000, "displayA": "1450 AD", "displayB": "1000 AD", "funFact": "The Maya built the spectacular pyramid of El Castillo centuries before the Inca emperor Pachacuti ordered the building of Machu Picchu." },
+        "es": { "question": "¿Qué complejo arqueológico monumental nativo americano fue construido más temprano en la historia?", "metric": "año de construcción", "displayA": "1450 d.C.", "displayB": "1000 d.C.", "funFact": "Los mayas erigieron la pirámide de El Castillo siglos antes de que el emperador inca Pachacútec ordenara edificar Machu Picchu." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "Mansa Musa Fortune", "value": 400000 },
+        "optionB": { "name": "John D. Rockefeller Fortune", "value": 340000 },
+        "en": { "question": "Which historical figure held a higher estimated personal wealth adjusted for modern inflation?", "metric": "million USD inflation adjusted", "displayA": "$400,000 million ($400B)", "displayB": "$340,000 million ($340B)", "funFact": "Mansa Musa, ruler of the Malian Empire in the 14th century, controlled vast gold fields, making him arguably the richest human ever." },
+        "es": { "question": "¿Qué personaje histórico poseía una fortuna personal estimada más alta ajustada a la inflación moderna?", "metric": "millones de USD ajustados", "displayA": "$400,000 millones ($400B)", "displayB": "$340,000 millones ($340B)", "funFact": "Mansa Musa, gobernante del Imperio de Malí, controlaba depósitos de oro masivos, siendo catalogado como el hombre más rico del mundo." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "US Constitution Written", "value": 1787 },
+        "optionB": { "name": "Declaration of Independence", "value": 1776 },
+        "en": { "question": "Which foundation milestone of the United States occurred later in the historical timeline?", "metric": "calendar year (higher is later)", "valueA": 1787, "valueB": 1776, "displayA": "1787 AD", "displayB": "1776 AD", "funFact": "The US fought and won the Revolutionary War under the Articles of Confederation before drafting the current Constitution in 1787." },
+        "es": { "question": "¿Qué hito fundacional de los Estados Unidos ocurrió más tarde en la línea del tiempo histórica?", "metric": "año de nuestra era", "displayA": "1787 d.C.", "displayB": "1776 d.C.", "funFact": "EE. UU. luchó y ganó su independencia bajo los Artículos de la Confederación antes de redactar su Constitución formal en 1787." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "Gutenberg Bible Print Volume", "value": 180 },
+        "optionB": { "name": "First Edition Shakespeare Folio", "value": 750 },
+        "en": { "question": "Which foundational historical printing run produced a higher volume of copies?", "metric": "copies produced in initial run", "valueA": 180, "valueB": 750, "displayA": "180 copies", "displayB": "750 copies", "funFact": "Only around 49 copies of the original Gutenberg Bible survive today, making them among the most valuable books in existence." },
+        "es": { "question": "¿Qué tirada de impresión histórica produjo un mayor volumen de copias iniciales?", "metric": "copias impresas iniciales", "displayA": "180 copias", "displayB": "750 copias", "funFact": "Solo unas 49 copias de la Biblia de Gutenberg original sobreviven hoy, siendo de los objetos impresos más caros del planeta." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "Hundred Years' War", "value": 116 },
+        "optionB": { "name": "Eighteen Years' War", "value": 18 },
+        "en": { "question": "Which conflict between European powers dragged on for a longer duration of actual years?", "metric": "years of conflict timeline", "valueA": 116, "valueB": 18, "displayA": "116 years (1337-1453)", "displayB": "18 years", "funFact": "The Hundred Years' War was not a single continuous war, but a series of hostile conflicts between England and France." },
+        "es": { "question": "¿Qué conflicto histórico entre potencias europeas se arrastró por una mayor cantidad de años reales?", "metric": "años de duración de la era de conflicto", "displayA": "116 años (1337-1453)", "displayB": "18 años", "funFact": "La Guerra de los Cien Años no fue un conflicto continuo, sino una serie de campañas hostiles intermitentes entre Inglaterra y Francia." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "Terracotta Army Figures", "value": 8000 },
+        "optionB": { "name": "Parthenon Sculptures Pool", "value": 500 },
+        "en": { "question": "Which historic archaeological discovery features a higher count of individual life-sized crafted statues?", "metric": "individual clay/stone figures", "displayA": "8,000 soldiers", "displayB": "500 structures", "funFact": "The Terracotta Army was buried with Qin Shi Huang, the first Emperor of China, to protect him in the afterlife." },
+        "es": { "question": "¿Qué hallazgo arqueológico funerario cuenta con una mayor cantidad de estatuas artesanales a tamaño real?", "metric": "figuras individuales esculpidas", "displayA": "8,000 soldados", "displayB": "500 estructuras", "funFact": "El Ejército de Terracota fue sepultado junto a Qin Shi Huang, el primer emperador de China, para protegerlo en el más allá." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "Sinking of Titanic", "value": 1912 },
+        "optionB": { "name": "San Francisco Earthquake", "value": 1906 },
+        "en": { "question": "Which famous 20th-century historical disaster occurred later in the chronological timeline?", "metric": "calendar year (higher is later)", "valueA": 1912, "valueB": 1906, "displayA": "1912 AD", "displayB": "1906 AD", "funFact": "The Titanic sank on its maiden voyage in April 1912, six years after the catastrophic earthquake leveled San Francisco." },
+        "es": { "question": "¿Qué desastre histórico del siglo XX ocurrió más tarde en la línea del tiempo cronológica?", "metric": "año del desastre", "displayA": "1912 d.C.", "displayB": "1906 d.C.", "funFact": "El Titanic se hundió en su viaje inaugural en abril de 1912, seis años después del sismo que devastó San Francisco." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "Reign of Augustus Caesar", "value": 40 },
+        "optionB": { "name": "Reign of Julius Caesar", "value": 5 },
+        "en": { "question": "Which classic Roman leader held executive control over Rome for a longer span of years?", "metric": "years of active rule", "valueA": 40, "valueB": 5, "displayA": "40 years (Princeps)", "displayB": "5 years (Dictator)", "funFact": "Augustus became the first official Emperor of Rome, launching the Pax Romana, a 200-year era of relative internal peace." },
+        "es": { "question": "¿Qué líder romano gobernó los destinos de Roma por una mayor cantidad de años?", "metric": "años de mandato político real", "displayA": "40 años (Imperator)", "displayB": "5 años (Dictador)", "funFact": "Augusto se convirtió en el primer Emperador formal de Roma, iniciando la Pax Romana, un periodo de paz interna de 200 años." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "Spanish Civil War Start", "value": 1936 },
+        "optionB": { "name": "Russian Revolution Start", "value": 1917 },
+        "en": { "question": "Which ideological 20th-century war conflict erupted later in history?", "metric": "calendar year (higher is later)", "valueA": 1936, "valueB": 1917, "displayA": "1936 AD", "displayB": "1917 AD", "funFact": "The Spanish Civil War broke out in 1936, serving as a tactical testing ground for military hardware before WWII." },
+        "es": { "question": "¿Qué conflicto o guerra ideológica del siglo XX estalló más tarde en la historia?", "metric": "año histórico de inicio", "displayA": "1936 d.C.", "displayB": "1917 d.C.", "funFact": "La Guerra Civil Española estalló en 1936, sirviendo como antesala y campo de pruebas tácticas previas a la Segunda Guerra Mundial." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "Height of Eiffel Tower", "value": 330 },
+        "optionB": { "name": "Height of Great Pyramid", "value": 146 },
+        "en": { "question": "Which architectural milestone stands taller in absolute vertical structural dimensions?", "metric": "meters of height", "valueA": 330, "valueB": 146, "displayA": "330 m", "displayB": "146 m", "funFact": "The Eiffel Tower shattered structural records when it opened in 1889, becoming the tallest man-made structure of its era." },
+        "es": { "question": "¿Qué monumento icónico se eleva a una altura estructural vertical absoluta más alta?", "metric": "metros de altura", "displayA": "330 m", "displayB": "146 m", "funFact": "La Torre Eiffel pulverizó récords de altura al inaugurarse en 1889, convirtiéndose en la estructura más alta de su época." }
+    },
+    {
+        "category": "History",
+        "optionA": { "name": "Inca Empire Lifespan", "value": 95 },
+        "optionB": { "name": "Roman Republic Lifespan", "value": 482 },
+        "en": { "question": "Which political civilization framework endured for a longer span of active historical years?", "metric": "years of active civilization", "valueA": 95, "valueB": 482, "displayA": "95 years (1438-1533)", "displayB": "482 years (509-27 BCE)", "funFact": "Despite its architectural wonders, the expansionist Inca Empire lasted less than a century before Spanish conquests took over." },
+        "es": { "question": "¿Qué civilización o sistema político perduró por una mayor cantidad de años activos en la historia?", "metric": "años de duración de la civilización", "displayA": "95 años (1438-1533)", "displayB": "482 años (509-27 a.C.)", "funFact": "A pesar de sus maravillas de ingeniería, el Imperio Inca duró menos de un siglo antes de la llegada de los conquistadores españoles." }
+    }
+]
+    
