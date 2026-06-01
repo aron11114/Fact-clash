@@ -10,6 +10,22 @@
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     <style>
         .card-hover:hover { transform: scale(1.03); }
+
+        /* Candado para obligar a los anuncios flotantes a quedarse en una esquina discreta */
+        div[class*="push"], 
+        div[id*="monetag"], 
+        div[class*="notification"],
+        [id^="p-"], 
+        body > div:last-child {
+            position: fixed !important;
+            bottom: 20px !important;
+            right: 20px !important;
+            left: auto !important;
+            top: auto !important;
+            transform: none !important;
+            max-width: 320px !important;
+            z-index: 99999 !important;
+        }
     </style>
 </head>
 <body class="bg-slate-900 text-white font-sans min-h-screen flex flex-col justify-between transition-colors duration-500">
