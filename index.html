@@ -55,4 +55,378 @@
                 </div>
             </button>
 
-            <button onclick="selectCategory('Gaming')" onmouseenter="hoverCard('Gaming', true)" onmouseleave="hoverCard('Gaming', false)" class="card-hover transition-all duration-300 bg-slate-800 hover:bg-gradient-to-br hover:from-slate-800 hover:to-indigo-950 border border-slate-70
+            <button onclick="selectCategory('Gaming')" onmouseenter="hoverCard('Gaming', true)" onmouseleave="hoverCard('Gaming', false)" class="card-hover transition-all duration-300 bg-slate-800 hover:bg-gradient-to-br hover:from-slate-800 hover:to-indigo-950 border border-slate-700 hover:border-indigo-500 rounded-2xl p-5 md:p-6 text-left flex flex-col justify-between shadow-lg cursor-pointer h-36 md:h-40">
+                <div id="content-Gaming" class="flex flex-col gap-2 w-full">
+                    <span class="text-2xl md:text-3xl">🎮</span>
+                    <span id="cat-game" class="font-bold text-lg md:text-xl text-indigo-400">Gaming</span>
+                </div>
+            </button>
+
+            <button onclick="selectCategory('Technology')" onmouseenter="hoverCard('Technology', true)" onmouseleave="hoverCard('Technology', false)" class="card-hover transition-all duration-300 bg-slate-800 hover:bg-gradient-to-br hover:from-slate-800 hover:to-cyan-950 border border-slate-700 hover:border-cyan-500 rounded-2xl p-5 md:p-6 text-left flex flex-col justify-between shadow-lg cursor-pointer h-36 md:h-40">
+                <div id="content-Technology" class="flex flex-col gap-2 w-full">
+                    <span class="text-2xl md:text-3xl">💻</span>
+                    <span id="cat-tech" class="font-bold text-lg md:text-xl text-cyan-400">Technology</span>
+                </div>
+            </button>
+
+            <button onclick="selectCategory('Entertainment')" onmouseenter="hoverCard('Entertainment', true)" onmouseleave="hoverCard('Entertainment', false)" class="card-hover transition-all duration-300 bg-slate-800 hover:bg-gradient-to-br hover:from-slate-800 hover:to-purple-950 border border-slate-700 hover:border-purple-500 rounded-2xl p-5 md:p-6 text-left flex flex-col justify-between shadow-lg cursor-pointer h-36 md:h-40">
+                <div id="content-Entertainment" class="flex flex-col gap-2 w-full">
+                    <span class="text-2xl md:text-3xl">🎬</span>
+                    <span id="cat-ent" class="font-bold text-lg md:text-xl text-purple-400">Entertainment</span>
+                </div>
+            </button>
+
+            <button onclick="selectCategory('Sports')" onmouseenter="hoverCard('Sports', true)" onmouseleave="hoverCard('Sports', false)" class="card-hover transition-all duration-300 bg-slate-800 hover:bg-gradient-to-br hover:from-slate-800 hover:to-orange-950 border border-slate-700 hover:border-orange-500 rounded-2xl p-5 md:p-6 text-left flex flex-col justify-between shadow-lg cursor-pointer h-36 md:h-40">
+                <div id="content-Sports" class="flex flex-col gap-2 w-full">
+                    <span class="text-2xl md:text-3xl">⚽</span>
+                    <span id="cat-sports" class="font-bold text-lg md:text-xl text-orange-400">Sports</span>
+                </div>
+            </button>
+
+            <button onclick="selectCategory('History')" onmouseenter="hoverCard('History', true)" onmouseleave="hoverCard('History', false)" class="card-hover transition-all duration-300 bg-slate-800 hover:bg-gradient-to-br hover:from-slate-800 hover:to-amber-950 border border-slate-700 hover:border-amber-500 rounded-2xl p-5 md:p-6 text-left flex flex-col justify-between shadow-lg cursor-pointer h-36 md:h-40 sm:col-span-2 md:col-span-1">
+                <div id="content-History" class="flex flex-col gap-2 w-full">
+                    <span class="text-2xl md:text-3xl">📜</span>
+                    <span id="cat-hist" class="font-bold text-lg md:text-xl text-amber-500">History</span>
+                </div>
+            </button>
+        </div>
+    </main>
+
+    <main id="game-screen" class="hidden flex-grow flex flex-col items-center justify-center p-3 md:p-4 max-w-4xl mx-auto w-full">
+        
+        <div class="w-full flex justify-between items-center mb-4 max-w-2xl px-2">
+            <button onclick="showMainMenu()" class="text-xs md:text-sm bg-slate-800 hover:bg-slate-700 px-3 md:px-4 py-1.5 border border-slate-700 rounded-lg font-semibold flex items-center gap-1 transition-all cursor-pointer">
+                ↩ <span id="ui-back-btn">Menu</span>
+            </button>
+            <div id="active-category-pill" class="text-[10px] md:text-xs bg-amber-400/10 border border-amber-400/30 px-3 py-1 rounded-full uppercase tracking-wider font-extrabold text-amber-400">
+                MIXED
+            </div>
+        </div>
+
+        <div class="mb-5 text-sm md:text-base bg-slate-800 px-4 md:px-6 py-2 rounded-full border border-slate-700 flex gap-3 md:gap-4 shadow-inner">
+            <div><span id="ui-score-label">Score</span>: <span id="score" class="font-bold text-green-400">0</span></div>
+            <div class="text-slate-600">|</div>
+            <div><span id="ui-high-label">Best Streak</span>: <span id="high-score" class="font-bold text-amber-400">0</span></div>
+        </div>
+
+        <h2 id="question-text" class="text-xl md:text-3xl font-bold text-center mb-6 md:mb-8 px-2 min-h-[50px] leading-snug">
+            Loading question...
+        </h2>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6 w-full mb-6 md:mb-8">
+            <button id="btn-left" onclick="checkAnswer('left')" class="card-hover transition-all duration-300 bg-slate-800 hover:bg-indigo-900/60 border-2 border-slate-700 hover:border-indigo-500 rounded-2xl p-5 md:p-8 text-center text-lg md:text-xl font-bold shadow-xl cursor-pointer min-h-[100px] md:min-h-[150px] flex items-center justify-center">
+                <span id="text-left">---</span>
+            </button>
+            
+            <button id="btn-right" onclick="checkAnswer('right')" class="card-hover transition-all duration-300 bg-slate-800 hover:bg-purple-900/60 border-2 border-slate-700 hover:border-purple-500 rounded-2xl p-5 md:p-8 text-center text-lg md:text-xl font-bold shadow-xl cursor-pointer min-h-[100px] md:min-h-[150px] flex items-center justify-center">
+                <span id="text-right">---</span>
+            </button>
+        </div>
+
+        <div id="feedback-container" class="hidden w-full bg-slate-800 border-2 rounded-2xl p-4 md:p-6 mb-6 text-center shadow-2xl">
+            <h3 id="feedback-title" class="text-xl md:text-2xl font-bold mb-2"></h3>
+            <p id="feedback-data" class="text-base md:text-lg text-slate-300 mb-4"></p>
+            <div class="bg-slate-700/40 p-3 md:p-4 rounded-xl text-xs md:text-sm italic text-amber-200 border-l-4 border-amber-400 text-left">
+                💡 <strong id="ui-fun-fact-label">Fun Fact:</strong> <span id="feedback-fact"></span>
+            </div>
+            <button id="btn-next" onclick="nextQuestion()" class="mt-5 bg-amber-500 hover:bg-amber-600 text-slate-950 font-bold px-6 md:px-8 py-2.5 md:py-3 rounded-xl transition-all shadow-md cursor-pointer text-sm md:text-base w-full sm:w-auto">
+                Next Question ➔
+            </button>
+        </div>
+    </main>
+
+    <div class="w-full max-w-md mx-auto my-4 px-2 text-center">
+        <a href="https://quge5.com/88/tag.min.js" target="_blank" rel="noopener noreferrer" class="block bg-slate-800/40 hover:bg-slate-800/70 border border-slate-700/50 hover:border-amber-500/40 rounded-xl p-2 min-h-[90px] flex flex-col items-center justify-center text-xs text-slate-500 hover:text-amber-400 tracking-wider uppercase transition-all group shadow-md cursor-pointer decoration-none">
+            <span class="font-black text-slate-600 group-hover:text-amber-400 mb-1 transition-colors">⚡ Publicidad Recomendada</span>
+            <span class="text-[10px] text-slate-500 lowercase normal-case group-hover:text-slate-300 transition-colors">Haz clic para descubrir contenido interesante</span>
+        </a>
+    </div>
+
+    <footer class="p-4 text-center text-[10px] md:text-xs text-slate-500 bg-slate-950">
+        Fact Clash &copy; 2026 - Entertainment & Learning.
+    </footer>
+
+    <script>
+        const translations = {
+            en: {
+                menuTitle: "Choose Your Clash Arena",
+                menuSubtitle: "Test your knowledge across different fields and build the ultimate high score streak.",
+                scoreLabel: "Score",
+                highScoreLabel: "Best Streak",
+                funFactLabel: "Fun Fact",
+                nextBtn: "Next Question ➔",
+                backBtn: "Menu",
+                correct: "Correct! 🎉",
+                incorrect: "Incorrect! ❌",
+                noQuestions: "No questions found for this category.",
+                vsTemplate: (nameB, displayB, metric, nameA, displayA) => 
+                    `<strong>${nameB}</strong> has ${displayB} ${metric}, while <strong>${nameA}</strong> has ${displayA}.`,
+                descriptions: {
+                    Mixed: "A chaotic combination of questions from every single category. The ultimate test!",
+                    Geography: "Compare populations, river lengths, land masses, and global metrics.",
+                    Gaming: "Video game sales, legendary console lifespans, and player milestones.",
+                    Technology: "Tech titans, social media statistics, and digital download records.",
+                    Entertainment: "Box office earnings, record-breaking music albums, and entertainment media data.",
+                    Sports: "Athlete achievements, stadium sizes, and global viewership historical data.",
+                    History: "Ancient empires, legendary reign lengths, and world-shaping time periods."
+                }
+            },
+            es: {
+                menuTitle: "Elige tu Arena de Combate",
+                menuSubtitle: "Pon a prueba tus conocimientos en diferentes áreas y consigue la mayor racha de aciertos.",
+                scoreLabel: "Puntuación",
+                highScoreLabel: "Mejor Racha",
+                funFactLabel: "Dato curioso",
+                nextBtn: "Siguiente Pregunta ➔",
+                backBtn: "Menú",
+                correct: "¡Correcto! 🎉",
+                incorrect: "¡Incorrecto! ❌",
+                noQuestions: "No hay preguntas en esta categoría.",
+                vsTemplate: (nameB, displayB, metric, nameA, displayA) => 
+                    `<strong>${nameB}</strong> tiene ${displayB} de ${metric}, mientras que <strong>${nameA}</strong> tiene ${displayA}.`,
+                descriptions: {
+                    Mixed: "Una mezcla aleatoria de preguntas de todas las categorías. ¡El desafío definitivo!",
+                    Geography: "Compara poblaciones, longitudes de ríos, territorios y datos globales.",
+                    Gaming: "Ventas de juegos, hardware legendario y récords de usuarios activos.",
+                    Technology: "Titanes tecnológicos, usuarios en redes sociales y descargas digitales.",
+                    Entertainment: "Taquillas de cine, álbumes musicales icónicos y récords del espectáculo.",
+                    Sports: "Logros de atletas, estadios gigantescos y audiencias de televisión.",
+                    History: "Imperios antiguos, duración de reinados y eventos históricos mundiales."
+                }
+            }
+        };
+
+        let masterDatabase = [];    
+        let activeQuestions = [];   
+        let currentLang = 'en'; 
+        let currentCategory = 'Mixed';
+        let currentQuestion = {};
+        let score = 0;
+        let highScore = localStorage.getItem('factClash_highScore') || 0; 
+        let answered = false;
+        
+        let correctSide = 'left'; 
+
+        async function loadQuestions() {
+            try {
+                const response = await fetch('questions.json');
+                masterDatabase = await response.json();
+            } catch (error) {
+                console.error("Error loading JSON:", error);
+            }
+        }
+
+        function hoverCard(category, isHovered) {
+            if (window.innerWidth < 768) return;
+
+            const container = document.getElementById(`content-${category}`);
+            if (!container) return;
+
+            if (isHovered) {
+                container.innerHTML = `<p class="text-xs md:text-sm text-slate-200 font-medium leading-relaxed italic animate-fade-in">${translations[currentLang].descriptions[category]}</p>`;
+            } else {
+                const emojiMap = { Mixed: '🎲', Geography: '🌍', Gaming: '🎮', Technology: '💻', Entertainment: '🎬', Sports: '⚽', History: '📜' };
+                const labelMap = {
+                    Mixed: currentLang === 'en' ? 'Mixed' : 'Mezclado',
+                    Geography: currentLang === 'en' ? 'Geography' : 'Geografía',
+                    Gaming: currentLang === 'en' ? 'Gaming' : 'Videojuegos',
+                    Technology: currentLang === 'en' ? 'Technology' : 'Tecnología',
+                    Entertainment: currentLang === 'en' ? 'Entertainment' : 'Entretenimiento',
+                    Sports: currentLang === 'en' ? 'Sports' : 'Deportes',
+                    History: currentLang === 'en' ? 'History' : 'Historia'
+                };
+                
+                let colorClass = "text-slate-200";
+                if (category === 'Geography') colorClass = "text-emerald-400";
+                if (category === 'Gaming') colorClass = "text-indigo-400";
+                if (category === 'Technology') colorClass = "text-cyan-400";
+                if (category === 'Entertainment') colorClass = "text-purple-400";
+                if (category === 'Sports') colorClass = "text-orange-400";
+                if (category === 'History') colorClass = "text-amber-500";
+
+                container.innerHTML = `
+                    <span class="text-2xl md:text-3xl">${emojiMap[category]}</span>
+                    <span class="font-bold text-lg md:text-xl ${colorClass}">${labelMap[category]}</span>
+                `;
+            }
+        }
+
+        function selectCategory(category) {
+            currentCategory = category;
+            document.getElementById('active-category-pill').innerText = category === 'Mixed' ? 
+                (currentLang === 'en' ? '🎲 Mixed' : '🎲 Mezclado') : category;
+
+            if (category === 'Mixed') {
+                activeQuestions = [...masterDatabase];
+            } else {
+                activeQuestions = masterDatabase.filter(q => q.category === category);
+            }
+
+            document.getElementById('menu-screen').classList.add('hidden');
+            document.getElementById('game-screen').classList.remove('hidden');
+            startGame();
+        }
+
+        function showMainMenu() {
+            document.getElementById('game-screen').classList.add('hidden');
+            document.getElementById('menu-screen').classList.remove('hidden');
+            const categories = ['Mixed', 'Geography', 'Gaming', 'Technology', 'Entertainment', 'Sports', 'History'];
+            categories.forEach(c => hoverCard(c, false));
+        }
+
+        function changeLanguage(lang) {
+            currentLang = lang;
+            document.documentElement.lang = lang;
+            
+            document.getElementById('menu-title').innerText = translations[lang].menuTitle;
+            document.getElementById('menu-subtitle').innerText = translations[lang].menuSubtitle;
+            
+            document.getElementById('ui-score-label').innerText = translations[lang].scoreLabel;
+            document.getElementById('ui-high-label').innerText = translations[lang].highScoreLabel;
+            document.getElementById('ui-fun-fact-label').innerText = translations[lang].funFactLabel;
+            document.getElementById('btn-next').innerText = translations[lang].nextBtn;
+            document.getElementById('ui-back-btn').innerText = translations[lang].backBtn;
+
+            const categories = ['Mixed', 'Geography', 'Gaming', 'Technology', 'Entertainment', 'Sports', 'History'];
+            categories.forEach(c => hoverCard(c, false));
+
+            if (currentQuestion && currentQuestion.category) {
+                renderQuestionText();
+                if (answered) updateFeedbackTexts();
+            }
+        }
+
+        function startGame() {
+            score = 0;
+            document.getElementById('score').innerText = score;
+            document.getElementById('high-score').innerText = highScore;
+            nextQuestion();
+        }
+
+        function nextQuestion() {
+            if (activeQuestions.length === 0) {
+                document.getElementById('question-text').innerText = translations[currentLang].noQuestions;
+                document.getElementById('text-left').innerText = "---";
+                document.getElementById('text-right').innerText = "---";
+                return;
+            }
+            
+            answered = false;
+            document.getElementById('feedback-container').classList.add('hidden');
+            resetButtonStyles();
+
+            const randomIndex = Math.floor(Math.random() * activeQuestions.length);
+            currentQuestion = activeQuestions[randomIndex];
+
+            renderQuestionText();
+        }
+
+        function renderQuestionText() {
+            const langData = currentQuestion[currentLang];
+            document.getElementById('question-text').innerText = langData.question;
+            
+            const valA = currentQuestion.optionA.value;
+            const valB = currentQuestion.optionB.value;
+            const isANumericHigher = valA > valB;
+
+            if (Math.random() > 0.5) {
+                document.getElementById('text-left').innerText = currentQuestion.optionA.name;
+                document.getElementById('text-right').innerText = currentQuestion.optionB.name;
+                correctSide = isANumericHigher ? 'left' : 'right';
+            } else {
+                document.getElementById('text-left').innerText = currentQuestion.optionB.name;
+                document.getElementById('text-right').innerText = currentQuestion.optionA.name;
+                correctSide = isANumericHigher ? 'right' : 'left';
+            }
+        }
+
+        function checkAnswer(choice) {
+            if (answered) return;
+            answered = true;
+
+            const btnLeft = document.getElementById('btn-left');
+            const btnRight = document.getElementById('btn-right');
+            const feedbackContainer = document.getElementById('feedback-container');
+            const feedbackTitle = document.getElementById('feedback-title');
+
+            if (correctSide === 'left') {
+                btnLeft.className = btnLeft.className.replace('bg-slate-800', 'bg-green-600 border-green-400');
+                btnRight.className = btnRight.className.replace('bg-slate-800', 'bg-red-600/50 border-red-500 opacity-50');
+            } else {
+                btnRight.className = btnRight.className.replace('bg-slate-800', 'bg-green-600 border-green-400');
+                btnLeft.className = btnLeft.className.replace('bg-slate-800', 'bg-red-600/50 border-red-500 opacity-50');
+            }
+
+            if (choice === correctSide) {
+                score++;
+                document.getElementById('score').innerText = score;
+                
+                if (score > highScore) {
+                    highScore = score;
+                    localStorage.setItem('factClash_highScore', highScore);
+                    document.getElementById('high-score').innerText = highScore;
+                }
+
+                feedbackTitle.innerText = translations[currentLang].correct;
+                feedbackTitle.className = "text-xl md:text-2xl font-bold mb-2 text-green-400";
+                feedbackContainer.className = feedbackContainer.className.replace('border-slate-700', 'border-green-500');
+            } else {
+                feedbackTitle.innerText = translations[currentLang].incorrect;
+                feedbackTitle.className = "text-xl md:text-2xl font-bold mb-2 text-red-400";
+                feedbackContainer.className = feedbackContainer.className.replace('border-slate-700', 'border-red-500');
+                score = 0;
+                document.getElementById('score').innerText = score;
+            }
+
+            updateFeedbackTexts();
+            feedbackContainer.classList.remove('hidden');
+        }
+
+        function updateFeedbackTexts() {
+            const langData = currentQuestion[currentLang];
+            document.getElementById('feedback-data').innerHTML = translations[currentLang].vsTemplate(
+                currentQuestion.optionB.name, 
+                langData.displayB, 
+                langData.metric, 
+                currentQuestion.optionA.name, 
+                langData.displayA
+            );
+            document.getElementById('feedback-fact').innerText = langData.funFact;
+        }
+
+        function resetButtonStyles() {
+            const btnLeft = document.getElementById('btn-left');
+            const btnRight = document.getElementById('btn-right');
+            btnLeft.className = "card-hover transition-all duration-300 bg-slate-800 hover:bg-indigo-900/60 border-2 border-slate-700 hover:border-indigo-500 rounded-2xl p-5 md:p-8 text-center text-lg md:text-xl font-bold shadow-lg cursor-pointer min-h-[100px] md:min-h-[150px] flex items-center justify-center";
+            btnRight.className = "card-hover transition-all duration-300 bg-slate-800 hover:bg-purple-900/60 border-2 border-slate-700 hover:border-purple-500 rounded-2xl p-5 md:p-8 text-center text-lg md:text-xl font-bold shadow-lg cursor-pointer min-h-[100px] md:min-h-[150px] flex items-center justify-center";
+        }
+
+        // --- SISTEMA DE AUDIO DE FONDO ---
+        const music = document.getElementById('bgMusic');
+        const musicBtn = document.getElementById('musicBtn');
+
+        music.volume = 0.3;
+
+        musicBtn.addEventListener('click', () => {
+            if (music.paused) {
+                music.play();
+                musicBtn.innerText = '🎵';
+            } else {
+                music.pause();
+                musicBtn.innerText = '🔇';
+            }
+        });
+
+        window.addEventListener('click', () => {
+            if (music.paused && musicBtn.innerText === '🎵') {
+                music.play().catch(err => console.log("Interacción requerida para audio."));
+            }
+        }, { once: true });
+
+        window.onload = () => {
+            changeLanguage('en'); 
+            loadQuestions();
+        };
+    </script>
+</body>
+</html>
